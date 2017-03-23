@@ -1,5 +1,5 @@
 +++
-date = "2017-03-23T12:50:13+01:00"
+date = "1999-01-01"
 title = "Large Format Photography primer: equipment"
 author = "Q.-Tuan Luong"
 link = "http://www.terragalleria.com/"

@@ -7,7 +7,7 @@
         <h1>{{ .Title }}</h1>
         <h3>by {{ .Params.author }}</h3>
         <p>{{ .Params.email }}</p>
-        <p>{{ .Params.link }}</p>
+        <p><a href="{{ .Params.link }}">{{ .Params.link }}</a></p>
         <p>{{ .Date.Format "January 2006"}}</p>
         {{ .Content }}
     </body>
