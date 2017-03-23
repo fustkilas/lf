@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://lflf.surge.sh/2015/04/shooting-lf-is-not-difficult-from-mf-to-lf/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lflf.surge.sh/why/</loc>
+    <lastmod>2001-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://lflf.surge.sh/article/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://lflf.surge.sh/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

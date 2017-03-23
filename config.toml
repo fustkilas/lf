@@ -1,3 +1,7 @@
 baseURL = "http://lflf.surge.sh"
 languageCode = "en-us"
 title = "Large Format Photography"
+
+[permalinks]
+
+  article = "/:year/:month/:title/"
