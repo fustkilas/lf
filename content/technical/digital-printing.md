@@ -1,0 +1,305 @@
+An overview of large format color digital printing
+--------------------------------------------------
+
+**by [Q.-Tuan Luong](%20http://www.terragalleria.com) for the [Large
+Format Page](%20.)**
+
+*Summary: an overview of the digital printers able of high-quality color
+output in large format, including continuous-tone printers and inkjet
+printers, as of July 2005.*
+
+While in B&W, there is still a place for the traditional darkroom
+despite recent advances in digital printing, most of fine art printing
+in color is nowadays done digitally. The tools in the B&W darkroom
+always gave its practioners a tremendous amount of control. With the
+exception of the dye-transfer process, it wasn't until the advent of
+digital workflows that color photographers gained access to equally
+powerful controls. However, dye transfer is extremely time-consuming,
+expensive, and difficult. Availability of materials is problematic,
+since the few remaining experts rely on stockpiles of discontinued
+supplies. The tactile and visual qualities of the medium have always
+played a large role in B&W photography, and there is a considerable
+range of possibilities. In color photography, the practical output
+choices are limited between type-C prints and Ilfochrome/Cibachrome.
+Digital printing not only includes those options, but adds quite a few
+of its own.
+
+### Continuous tone digital printers: Lightjet, Chromira, Lambda
+
+Continuous tone printers use photographic (silver-based) paper. The
+image is created by exposing the paper pixel by pixel with RGB light
+sources, either lasers or LEDs. Each pixel has a continuous 24 (8x3) bit
+RGB value. Processing is done automatically in the printer with
+traditional chemistry. The resulting prints look exactly like
+traditionally made color photographs.
+
+By far, the most commonly used papers are type-C (for printing from
+negatives) processed in RA-4 chemistry. Of all the type-C papers, the
+preferred medium is Fuji Crystal Archive, that has the best longevity
+rating of any color photographic paper. Crystal Archive has an estimated
+longevity rating of 60 years, whereas the best previous photographic
+paper, Cibachrome/Ilfochrome, had a longevity rating of 35 years. The
+sharpness and color is excellent, with very deep blacks. Crystal Archive
+comes in three varieties, Semi-Gloss, Glossy, and Super Glossy. The
+glossy papers look more deep and "three-dimensional", however they are
+also more fragile. The surface is less tolerant to scratches and
+fingerprints than the semi-glossy paper. Super Glossy is a
+polyester-based surface like Ilfochrome/Cibachrome which has a metallic,
+mirror-like finish. It is also possible to print on
+Ilfochrome/Cibachrome, but this is rarely done.
+
+Printers include the [Cymbolic Sciences
+Lightjet](http://www.cymbolic.com/products/lightjet5000.html), [Durst
+Lambda](http://www.digital-photo-lab.com/Lambda.html), and [ZBE
+Chromira](http://www.zbe.com/products/chromira/chromira30.html). Since
+its introduction, in 1996, the Lightjet has emerged as the printer of
+choice for fine-art printing. The Lambda is more often used for
+commercial printing. I was told by a tech at a Custom Color Lab in Palo
+Alto (incidently, the rise of digital forced that lab out of business in
+2002) that the reason why the Lightjet is used for fine art printing is
+that it is such a "bear" that it would be too inefficient for commercial
+printing. We did a series of tests with one of my images that I had
+printed on the Lightjet by another lab. With the settings that he used,
+his Lambda prints were noticeably softer. Both of those printers use
+lasers, and cost about \$200,000. The more recent Chromira uses LEDs,
+and costs "only" around \$60,000. This made it possible for fine-art
+labs such as West Coast Imaging or LaserLight to acquire one, whereas
+before they would send out for Lightjets. The LEDs are low-power, unlike
+lasers, which makes maintainance and calibration easier. The Chromira is
+said to produce prints at least as good as the Lightjet. Because of
+those high costs, those printers are exclusively operated by labs. There
+are probably less than a thousand Lightjets installed worldwide.
+
+The maximum printing size of the most commonly installed Lightjet
+printers is 48x96 inches (Reed Photo Imaging of Denver can print up to
+48x120 inches). The less common Lightjet 500XL (in the US: Laumont,
+ColorEdge, Duggal, Ferrari Color, in Germany: Grieger) is currently the
+largest continuous tone printer. It prints up to 72x120 inches. Lambda's
+are limited to 50 inch wide. Earlier Chromiras were limited to 30 inch
+wide. The newest generation can print up to 50 inch wide.
+
+Because those printers have very high-quality interpolation algorithms,
+and because of the nature of photographic paper, where there is a bit of
+diffusion, excellent results can be obtained with 200DPI files, although
+the native resolution is 300DPI.
+
+It is necessary that the lab provides you with the ICC profiles of their
+printer on each type of medium they use, since this is the only way
+you'd get a precisely matched color. A good lab also linearizes their
+printer daily in order to provide consistent results.
+
+The costs of materials for those printers is the lowest of any, at
+around \$0.30 per square foot. However, labs have to recoup the price of
+the initial investment for the printer. Competitive good labs charge
+around \$12 per square foot.
+
+### Inkjet printers: Iris, Epson, HP
+
+Inkjet printers lay very fine droplets of ink on paper. High-end Inkjet
+printers are a world apart from cheap office printers, and can produce
+prints of remarkable quality. However, the technology is still maturing.
+Colors are formed by the juxtaposition of droplets of a number of
+primary colors.
+
+A large variety of papers can be used. Some of those papers try to mimic
+the apparency of traditional photographic papers, with RC surfaces,
+semi-glossy and glossy finish, while others have a matte finish which is
+unique to the inkjet process. Interesting heavy and thick fine-art matte
+paper of refined appearance, as well as watercolor and canvas can be
+used with the inkjets. With such papers, the print will look very
+different from a traditional photograph. This look can be a bit "flat"
+for an unframed print. Longevity rating is excellent, exceeding those of
+photographic paper based on accelerated fading tests. It must be noted
+that those tests failed to predict rapid fading of some ink/paper
+combinations in the past.
+
+#### Iris printers
+
+The first inkjet printers to produce high-quality output were the Iris
+printers. The Iris is a large drum based inkjet printer of high
+mechanical complexity. It squirts a million droplets of ink from each of
+its four nozzles (Cyan, Magenta, Yellow and Black) every second towards
+a drum rotating at a speed of 150 inches per second. These droplets are
+given an electric charge on their way to the drum either positive or
+neutral to allow the printer to determine which should actually hit the
+drum, and which should be deflected away to the waste system. Papers are
+typically fine watercolor papers or canvas. The term Giclee (a French
+word meaning "to spray", although in slang the verb "gicler" has a
+different meaning) was coined in the English-speaking world to refer to
+Iris prints. It is nowadays often used to refer to any inkjet print on
+fine art papers. There are two main limitations of Iris printers. The
+first one is the cost, due to the high complexity of the printer,
+limiting their use to labs. The second one is that the print has a size
+limited by the size of the drum. Iris prints are often reproduction of
+art pieces other than photography. For photographic art, the Iris
+printers have largely been displaced by the Epson large format printers.
+
+#### Epson Ultrachrome
+
+Epson has dominated the market of fine-art printing since the
+introduction of the Ultrachrome-based 7600/9600/10600 printers in 2002.
+The 9600 costs \$5000 and prints to 44 inches wide. The 7600 costs
+\$3000 and prints to 24 inches wide. Because the price difference is not
+that large, and because the paper for the 9600 is more economical, I
+would think that the 9600 would be a better choice, since you never know
+how large you'd like to print. The 10600 is a more efficient version of
+the 9600 meant for production environments. Subsequently Epson released
+the 4000, which prints up to 17 inches wide and was designed to be used
+with cut sheets (while the other printers primarily use paper in roll).
+The small brother of the family, the 2200 (13 inch wide) does not have
+the self-calibration feature (see below), and is more prone to clogging
+and other problems than the larger, professionally-oriented printers.
+
+Those printers were the first large format inkjet printers yielding a
+combination of quality color, metamerism problems well controlled, and
+longevity (at least as good as the Crystal Archive papers), thanks to
+their "Ultrachrome" pigmented inks. Before that, you had the choice
+between dye-based inks that yielded excellent color and dense blacks,
+but were not archival (some of the prints began to fade just after a few
+years), and pigment-based inks that were archival, but had a reduced
+color gamut (range of colors that can be reproduced), in particular in
+the reds colors, and serious metamerism. Metamerism refers to the fact
+that colors would shift when viewed under different light conditions. So
+you could produce a print that was perfect looking in your studio under
+5000K lighting, but if the print was viewed under more common tungsten
+or halogen lights, it would take an ugly magenta cast.
+
+The gamut (range of colors that can be reproduced accurately) is
+slightly wider than the gamut of the Lightjet, in particular in the
+blues and oranges. However, the blacks are not as deep as those obtained
+on the Lightjet, which makes for prints that look more "flat". The Epson
+papers are not as nice to the touch as photographic papers. They are
+also more easily damaged, for instance a water drop could damage a
+print. However, once the print is framed, most of the advantages of the
+Lightjet are reduced.
+
+Many people avoid printing on glossy paper (such as Epson Premium Glossy
+Photo Paper) with the Epson Ultrachrome inks, because of a problem known
+as "bronzing", or "gloss differential". Gloss differential is what
+happens when light is directly reflected towards the viewer from off of
+the print. The result is darkened, or "bronzed," reflections where ink
+has been laid, and full reflection (blown-out highlights) where little
+to no ink has been laid. Because different colors can have different
+"gloss", under certain viewing conditions (generally at an angle), the
+print will not look uniform, but rather will have a patchy appearance.
+In general, bronzing is not a real issue once the print is framed.
+Semi-glossy papers (such as Epson Premium Luster Photo Paper) can
+exhibit this problem to a lesser degree. Matte papers do not suffer from
+bronzing. Bronzing can be mitigated by applying a coating to the print
+with such products as Lyson Print Guard, and Premier Art Print Shield,
+that make the reflection more uniform.
+
+Another potential problem is "out-gassing" with glossy and semi-glossy
+papers. In order to avoid nozzle clogging, some humectant chemicals that
+are very slowly evaporating are added to the inks. When printing on
+photographic-like papers (glossy and semi-glossy coated surfaces), those
+chemicals are not absorbed by the paper. They'll still be on the print
+long after the water has gone and the print "feels" dry. As they
+evaporate over time, they can cause fogging in the inside of the glass
+when the print is framed. With uncoated paper, this is not a problem,
+since the humectants can be absorbed by the paper. In order to prevent
+outgassing, one must cure all the prints for a few days before framing.
+The best way to do it is, after letting the print dry for about a hour,
+is to lay absorbent paper (Chris Jordan uses news print paper that comes
+in huge rolls of a thousand feet long for \$50, while Joseph Holmes uses
+Light Impressions Renaissance non-buffered archival paper) totally flat
+against the print with no air in-between for at least 24 hours,
+preferably with pressure. Prints can be stacked and interleaved with
+absorbent paper in order to achieve that. The paper acts like a sponge
+and draws out the gases from the inks much faster than they would escape
+if just exposed to air. The paper will go wavy as the solvent
+evaporates. You keep interleaving until the paper is no longer wavy.
+
+Setting up the 7600/9600/10600 can be tricky. In order to get the widest
+color gamut from the 7600/9600/10600, it is necessary to use the "no
+color adjustment setting", and profile the printer. Creating a good
+profile can be very difficult, since the grey-scale raw output in that
+setting is highly non-linear and suffers from complex color casts.
+Fortunately, the 7600/9600/10600 incorporates an automatic closed-loop
+calibration technology which is so good that any two printers provide
+basically the exact same output. It is therefore possible to use a
+profile created by someone else for their printer on your printer. Bill
+Atkinson created excellent profiles for his own use, and makes them
+available for free.
+
+The native resolution of the Epson printers is 360DPI. When using a file
+with not enough pixels, it is in general better to interpolate the file
+in photoshop. Feeding the Epson with less than 240DPI results in
+inferior prints on photographic paper. However, I have once produced a
+large print on canvas at 175DPI and have been pleasantly surprised at
+the results.
+
+#### Hewlett-Packard
+
+Hewlett Packard large-format printers have a wide installed base in
+engineering and design studios. Recently HP began to target the fine-art
+market.
+
+In 2004, HP released a new set of inks and matching paper, which is a
+"swellable medium" that expends to receive the inks, and then contracts
+to protect them. They are available in the affordable (\$1300) Designjet
+130 printer, that can print up to 24 inch. This made it possible for
+them to use dye-based inks while achieving a longevity rating comparable
+to Epson pigmented inks.
+
+The appearance of the Designjet 130 prints compares very favorably with
+the Epson prints. In particular, Charles Cramer (View Camera Magazine,
+March/April 2005) observed that the blacks obtained by the 130 were the
+blackest that he has ever seen in his career, better than the highly
+regarded color Dye Transfers, or even Selenium-toned Ilford FB B&W
+silver gelatin papers. He rates the density of the blacks in the
+following order, starting from the best blacks: HP Designjet 130, FB B&W
+silver gelatin, Dye transfer, Lightjet, Ilfochrome, Epson 9600. This
+observation has been corroborated by several reviewers.
+
+#### Epson Ultrachrome K3
+
+In May 2005, Epson a announced new line of printers with new inks,
+called Ultrachrome K3. The line consists of the 2400 (replaces the
+2200), 4800 (replaces the 4000), 7800 (replaces 7600), and 9800
+(replaces 9600). The 2400 and 4800 shipped in the spring of 2005, while
+the others are scheduled for fall 2005.
+
+According to Joseph Holmes [beta-testing
+report](http://www.josephholmes.com/news.html), this printer represents
+a significant advance. The differential gloss problem ("bronzing") is
+much reduced, the output much more neutral and linear, and the blacks
+considerably improved, in particular on glossy papers. They would fall
+in between Dye transfer and Lightjet. The Ultrachrome K3 inks have a
+slightly larger gammut, and an even better longevity rating than the
+Ultrachrome inks. They are also said to produce outstanding black and
+white prints.
+
+### Conclusion
+
+Continuous tone printers produce prints that are traditional photographs
+(silver-based). If you like the brilliance of a glossy print, they are
+currently unsurpassed, especially with polyester-based surfaces. The
+main drawback is the necessity to use a lab, at a cost of more than
+\$12/square foot.
+
+Inkjet printers have dramatically improved. In many metrics, they have
+surpassed continuous tone printers. They can create prints that have a
+similar look as traditional photographs as well as prints that have a
+unique look on matte, fine art, and canvas surfaces. However, the prints
+still look more like ink on paper (because it is what they are) than
+traditional photographs, where the color is embodied in the paper,
+giving it a more three-dimensional and glowing appearance.
+
+The printing costs (ink and paper) vary between \$1 and \$2 per square
+foot. See the tables for [Epson Ultrachrome
+printers](http://www.inkjetart.com/pro/7600_9600/cost_page.html) (the
+cost and printing costs for the next-generation Epson printers 9800/7800
+are expected to be the same) and [HP
+printers](http://h41186.www4.hp.com/Data/costperprint/).
+
+This, combined with the relatively affordable costs of the printers, is
+the main advantage of inkjet printers. They allow the photographer to
+own his printer. Having in-house printing capabilities, besides
+improving efficiency, let you have instant and low cost feedback, and
+fine-tune prints in a way that would not be practical when you have to
+order prints from a lab. The cost of consumables is much less than the
+cost of ordering a print from a lab, which in the long run makes the
+printer pay for itself if you print enough.
+
+#### [View/Add comments](http://largeformatphotography.info/lfforum/topic/502683.html)

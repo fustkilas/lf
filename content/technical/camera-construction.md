@@ -1,0 +1,113 @@
+Reflexions on Large Format Camera construction
+----------------------------------------------
+
+**[Edward A. Hoover](mailto:eahoo@earthlink.net) © 2002 for
+[largeformatphotography.info](http://www.largeformatphotography.info/)**
+
+As my interest in photography and large format in particular has
+evolved, I have become aware of several things about the hobby in
+general that have led me down the path of simplified large format camera
+design. My initial interest was aroused by the incredible detail that is
+visible in the photographs taken by many of the pioneering photographers
+from earlier eras. After a number of years of casual observation I
+decided to see what design features these earlier cameras had in common
+with there modern counterparts and began to collect available examples
+of various types such as the folding view, tailboard, box and early
+large roll cameras.
+
+The first thing that became apparent was the high price of collecting
+usable samples and secondly the rather advanced stage of deterioration
+that was common to the frames and bellows of these cameras. I then began
+a quest for information on early fabrication and manufacturing
+techniques. The information that I found consisted almost entirely of
+repairing them and very little about design or building them so I began
+to develop my own methods of construction based on readily available
+materials and low tech tooling that most craftsman are likely to have
+available to them or own personally.
+
+The bellows being the most commonly dilapidated item I concentrated my
+efforts in this direction first. All techniques for fabrication that I
+could locate involved the rather imprecise method of adhering the ribs
+or stiffeners directly to the pre-cut covering with little or no method
+of precise control of intersecting dimensions or angles. After
+dissecting various models, I developed the method of temporarily
+adhering the stiffeners to a precise layout and then transferring them
+to a precision matching form wrapped in the base or inside layer of the
+covering. After application of the outside layer of the covering the
+bellows is then slipped off of the form and the end rings are fixed in
+place. With this simple method I was able to design and complete a
+bellows with no error in very little time.
+
+I next focused my efforts on the camera back and immediately became
+aware of the diversity of the existing designs and the differing
+setbacks to the film plane of the various film and plate holders of
+these early cameras. These designs seemed to consolidate to somewhat of
+a standard in later years but when measuring them I observed noticeable
+differences from the face of the film holder to the film plane that in
+some cases would most likely be covered by the lens depth of field but
+in others the difference such a divergence from the norm that I began to
+wonder if it was intentional. After studying the setback of the ground
+glass on various cameras I found it to be true that manufacturers of the
+time did produce film holders and camera backs that were compatible only
+with there own equipment and were not the least interchangeable as far
+as focus but to the casual observer the mechanical fit was perfect. I
+can't help but wonder how many countless hours were spent by early
+technicians in there darkrooms trying in vain to figure out where thy
+went wrong!
+
+The design feature that seemed to exist on all these backs was the
+rather heavy spring pressures that resulted as the film or plate holder
+was inserted after focusing was achieved and the difficulty encountered
+when removing the film holder after the shot was taken. To say it is a
+two handed operation is perhaps putting it to mildly in my opinion!
+
+Keeping these observations in mind I decided to design a back that could
+interchangeably accommodate various film or plate holders and
+incorporate matching ground glass setbacks for whatever brand or type
+the user would be inclined to experiment with. The solution I developed
+to work around these problems was to create a focusing glass that is
+removed before the film holder is inserted. If the side rails that
+support the ground glass are fabricated to match the film or plate
+holder focal plane setback and are machined to the same thickness as the
+sides of the film holder that is utilized, an exact focal distance match
+can be obtained and the film holder can be inserted and removed quite
+easily without disturbing the position of the camera.
+
+For the frame of the camera I decided to utilize all friction stop
+adjustment to remove the stumbling block, for the average experimenter,
+of successfully fabricating a geared drive actuating mechanism while
+still incorporating all movements required for focusing or offsets. The
+method of fabrication I devised utilizes commonly available aluminum
+channel and standard dimension hardwood that can be purchased from the
+local home supply store and needs only to be cut to the proper length
+before construction can begin.
+
+I believe that my design will allow the casual experimenter to enter the
+world of large format photography at a time when its utilization is
+becoming completely overshadowed by high priced products a rapid drift
+toward digital media as the only low cost option with pleasing results.
+The availability of low cost salvageable components such as lenses, film
+holders and complete darkroom systems has never been higher and not
+allowing these fine items to go waste when they can be easily obtained
+and utilized in the extension of an extremely valuable and satisfying
+art form is my reasoning for developing this low cost, simple, yet
+precise method of camera chassis construction.
+
+#### More information
+
+More information and options for purchasing a complete construction
+manual or a low cost chassis kit can be obtained by visiting my web site
+at:
+
+ <http://home.earthlink.net/~eahoo/camera.html>
+
+Edward A. Hoover\
+5345 East Ohio Ave.\
+Sanford FL 32771\
+(407) 321.5128
+
+------------------------------------------------------------------------
+
+[](mailto:eahoo@earthlink.net)
+
+eahoo@earthlink.net

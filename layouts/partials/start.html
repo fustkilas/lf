@@ -1,0 +1,9 @@
+<section>
+    <h2>Get Started</h2>
+    <ul>
+        {{- range where .Data.Pages "Section" "start" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{- end }}
+    </ul>
+
+</section>

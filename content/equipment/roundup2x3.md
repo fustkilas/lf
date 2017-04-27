@@ -1,0 +1,298 @@
+2x3 Cameras: a round-up
+
+2x3 Cameras : a round-up
+------------------------
+
+**By [Q.-Tuan Luong](http://www.terragalleria.com/) for [the Large
+Format Page](.)**
+
+*Summary: a discussion of the 2x3 format, and a survey of 2x3 field and
+view cameras arranged by category and prices.*
+
+This survey is about cameras of 2x3 format which operate like 4x5 and
+larger view/field cameras, with bellows, movements, and ground glass.
+Although technically those cameras are Medium Format, the techniques and
+mindset that are required to use them make them an integral part of the
+Large Format photography experience.
+
+Some of the cameras described here are just scaled-down version of a
+4x5, so look at the [4x5 round-up](roundup4x5.html) for more details and
+links which are omitted here.
+
+### Advantages of 2x3
+
+-   Film is cheaper, available in a wider variety of emulsions, and
+    easier to handle.
+-   In color, up to 16x20 (20x24 if using digital printing), differences
+    with 4x5 are barely noticeable.
+-   More digital backs are available to fit 2x3 than 4x5 (the latter
+    often don't make use of the full format).
+-   Better portability: you save some weight and size with a 2x3. The
+    reduced size makes the camera less prone to vibration in the wind.
+-   It is easier to use a binocular viewer on a 2x3.
+-   Because of the smaller magnification, you gain about fstops (maybe 1
+    or 2) for equivalent DOF than a 4x5, therefore faster shutter speeds
+    on windy days.
+
+### Drawbacks of 2x3
+
+-   Because you start with a smaller piece of film, you need to have the
+    best lenses and roll-film backs, excellent ground-glass
+    registration, as well as an impeccable technique.
+-   In general, a 2x3 camera weights about 2/3 of the weight of the
+    equivalent 4x5. However, the film area is less than 1/2 (if you use
+    6x7, it is only 1/3). Most 2x3 cameras are more heavy than the
+    lightweight 4x5.
+-   The image's smaller size makes movements harder to see & interpret
+    than on 4x5, and the movements themselves are smaller.
+-   A 4x5 with a roll-film back lets you shoot roll-film as well,
+    including the 6x12 panoramic format that you cannot do with a 2x3.
+-   For B&W, if you use the Zone system, you don't have as much
+    flexibility in processing as with sheet film, since you'd have to
+    carry one roll-film back for each possible development.
+
+### Flatbed/Field/Technical cameras
+
+-   Older cameras: **Speed/Crown Graphic 23**, **6x9 Busch Pressman**,
+    have limited movements on front only, and were designed to be
+    hand-holdable.
+-   **Tachihara Shirom 69 field**: distributed by Adorama, it is an
+    horizontal camera (you'd have to turn it on its side to shoot
+    verticals). I'd be wary of the inexpensive wooden construction since
+    on such a format alignment precision is critical.
+-   **Horseman VH**: metal (but overall built and quality of materials
+    not as good as Linhof). single extension: 65mm-250mm belows. all
+    moves on front, movements possible with shorter extensions than the
+    Technika (but still not very easy). technical back (swing/tilts by
+    Technika-style rods). Revolving graflok back, extension to 4x5
+    possible. 1.7kg (\$2400). **Horseman VHR**(2.0kg) adds a
+    superstructure with rangefinder (and related attachments, usable
+    only with Horseman lenses 65mm-180mm) combined with a confusing
+    vertical/horizontal viewfinder. This is the only difference with the
+    VH. **Horseman 985,980** older models with no revolving back. The
+    horizontal viewfinder is separate from rangefinder. **Horseman ER
+    1** adds to the VHR some electric controls and locks designed to
+    make handholding operation easier and faster.
+-   **Ebony SV 23**: Camera with high quality ebony/titanium
+    construction. All movements with traditional field camera geometry.
+    52-500mm (huge triple bellows extension, but interchangeable and
+    flexible enough for wide angle lenses). 1.8kg. (\$3400)
+-   **[Linhof Technika IV](linhof/technika-23.html)**: Extremely well
+    built and solid. all moves in front, technical back, combined
+    rangefinder and viewfinder. Not so good for wide angle use. **Linhof
+    Technika V** rangefinder on side and accessory viewfinder (like all
+    the 4x5 models), better front movements, flipping panel helps for
+    rise. 48-300mm extension. 1.8kg (\$3800)
+
+### Monorail/Non folding cameras
+
+-   **6x9 Plaubel Peco Jr** is a monorail with rise/fall and shift on
+    the front, and swing, tilt on the rear
+-   **[Galvin](cameras/toyo/toyo-galvin-2x3.html):** Used to be hand
+    built by camera repairman Jim Galvin (hence rougher than the modern
+    machine built cameras), and lack geared movements. Their main
+    strength is the size and weight: 1.2kg (used \$300-\$700)
+-   **Gowland Pocket view** 2x3 (250mm of extension) and 4x5 cost and
+    weight the same, 1.1kg for the camera with front moves only (\$725)
+    1.35kg with back tilt and reversible back (\$850) (note that
+    although this is the lightest 2x3, it's weight is still comparable
+    to that of the Toho 45).
+-   **Cambo SC I**: scaled down Calumet 45NX, monorail, all moves.
+-   **Cambo 23 SF**: scaled down Cambo 45 SF. 25-200mm of extension.
+    monorail, all moves. part of a system and can be upgraded to 4x5.
+    4kg.
+-   **[Toyo 23G](cameras/toyo/toyo-galvin-2x3.html)**: scaled down Toyo
+    45G. monorail, all moves. 4kg (used \$850-\$1450)
+-   **Ebony SW23**: non-folding wide-angle camera with the
+    ebony/titanium construction. all movements on front. 46-157mm of
+    extension, 1.3kg. (\$2300)
+-   **[Arca Swiss 69FC](arca23.html)**: Very functionnal, precise and
+    well built cameras, with a Swiss high quality feeling. Yaw-free.
+    Relatively light and compact for a monorail. 42-200mm extension. 2.5
+    kg. (\$2400) Also available in 2x3 are the **Metric** and
+    **Monolith** lines. All are part of a system and can be upgraded to
+    4x5.
+-   **Ebony 23S**: non-folding camera with the ebony/titanium
+    construction. all movements on front and back, 65-275mm of
+    extension, 1.8kg. (\$2700).
+-   **Technikardan 69** Telescoping monorail with an unique mechanical
+    design allow the camera to be collapsed instantly to book-size.
+    Folds the smallest for a monorail. High german quality feeling.
+    Better in the field (excellent portability) than in the studio
+    (particular to operate and not modular). extension: 48-340mm . 2.8kg
+    (\$2900)
+-   **Linhof M679**: designed with the digital studio in mind, it and
+    comes out of the box with no means of viewing or using film. Geared
+    swings and tilts, but no shift or rises on the original model (It
+    has been replaced by the **M679cc** which has rear rise and shift,
+    \$3300) Integrated ball head (comparable to a Profi III), which
+    makes the weight look more reasonable. 3.8kg.
+
+------------------------------------------------------------------------
+
+### A few comments
+
+**by G. Hugh Song**
+
+> Cambo SC I: To my surprise, you can buy one new from Calumet as a
+> special order. I'd rather buy Toyo 23G view at that price, though. The
+> latter is also a special-order item, I think. Really the same as
+> current-model Calumet 45NX except the size. Focusing knobs are
+> exceptionally smooth although they do not have rack-and-pinion. I
+> think it has a roller-type mechanism which is as good, if not better,
+> as the rack-and-pinion. Universal back. It means that you have to take
+> out the ground glass in order to attach the Graflok back. It also
+> means that, if you can obtain a Graflarger lamp assembly, you can
+> convert the camera into an enlarger. (I don't know the detail.)
+> Interchangeable bellows.
+>
+> Galvin View. There were two models. One has a combination of 9 cm and
+> 5 cm monorails, the other only has a 9 cm rail. Actually, they are the
+> same. Galvin himself described the 9 cm model a bust. You set up the
+> camera on the 5cm rail for transport. It is then so small that you
+> might even hand-hold the camera for landscapes. Maybe the smallest
+> view camera ever made. Bellows are not intechangeable. No wide-angle
+> bellows were made, although the one at which I took a look had a
+> modified bellows. A bag bellows was transplanted in the middle of the
+> standard bellows after incising a good portion of it. Rail holders of
+> the front and rear standards have a teflon-like material so that the
+> teflon can wrap around the rail rod in order to make the slide smooth.
+> The one at which I took a look seemed to have worn teflon. The two
+> standards were wobbly. Focusing is by rack and pinion with a knob on
+> the front standard. Some has a Fresnel focusing back, which was an
+> upgrade item. I saw an advertizement which included the polaroid back.
+>
+> General Caveats of 6x9cm view cameras: Not many lenses are
+> specifically designed for view cameras of this size. For example,
+> suppose that you want 47mm, 75mm, 125mm, 210mm (which correspond to
+> your favorite set of 75mm, 135mm, 210mm, ? for 4x5"-size view
+> cameras.) Among the new lenses on the market, only Schneider makes
+> 47mm Super Angulon. Note that most 75mm lenses are of wide-angle
+> formula design, which are about twice as expensive as the
+> planar-design lenses if we compare the same speed lenses. There is
+> Horseman-brand Super ER 75mm f/5.6 of planar-type design (multi-
+> coated) with a focusing cam specifically designed for Horseman's VHR
+> and ER. Note that many 4x5" users prefer Symmar-type lenses for their
+> 135mm applications. Note also that the focal length of 135mm is the
+> most used, most popular among 4x5 users in rec.photo land. Rodenstock
+> makes 75mm f/6.8 6-element wide-angle-formula lenses which are cheaper
+> and has slightly less image-circle than f/5.6 or f/4.5 wide-angle
+> lenses of 7 or 8-element designs. Two good points of using a 75mm
+> wide-angle lens with a roll back or a 6x9cm view camera are that you
+> do not need a center filter which is about \$200 in addition to the
+> price of the lens itself, and that you still have a huge image circle
+> even with the f/6.8 lens. Obviously, you lose on the on-axis
+> sharpness. Unlike the case of 4x5" view cameras with the spring
+> mechanism, There is no problem with a Graflok back scratching the
+> ground glass of 6x9cm size. The Graflock back touches the frame area
+> of the ground glass. You just have to make sure that the spring
+> opening has enough clearance in case that 6x9cm view camera you are
+> considering has a spring back. Galvin fits this description. Cambo SC
+> I has a universal back. So you remove the ground glass and attach the
+> Graflok back.
+>
+> Polaroid backs: The usual polaroid backs for 4x5" cameras do not fit
+> on the 6x9cm-camera Graflok back. Horseman's polaroid back needs an
+> adapter for its polaroid back whose film plane is not at the same
+> location as the location of non- polaroid films. The whole back
+> assembly which has rails for the Graflok back has to be removed. This
+> means if the original manufacturer (in my case, Cambo) does not supply
+> the adapter, then you are out of luck.
+
+**By Bill Glickman**
+
+> Beware to all potential 2x3 view camera buyers. There is one thing
+> quite often over looked with this decision - lens sharpness of med.
+> format vs. large format. I shoot large format 4x5 and 8x10 and have
+> noticed when I use my 6x9 roll film back on my 4x5 with the best
+> lenses made, Super symar XL's for example, they still do not compare
+> in sharpness with shots from my Mamiya 7 camera in 6x7 format. Large
+> format has better detail due to the size of the format, however, when
+> you use inferior lenses on smaller formats such as 6x9, you loose a
+> lot of sharpness. Good medium format lenses are much sharper than all
+> large format lenses compared on the same format. After seeing these
+> results with my loupe many times, this is what prevented me from going
+> to the 2x3 camera. It probably is one of the main reasons that this
+> format has become very rare relative to 4x5. In addition, it still
+> seems better in every way to just go 4x5 and then buy a roll film
+> back, it gives you the option of either format, and if you buy the
+> right field camera, there is little difference in size. In addition
+> 4x5 field camera will usually offer better movements as well as
+> accessories. Of course I am not overlooking the one benefit of 2x3
+> view cameras vs. med. format, movements.. Some med. format cameras now
+> incorporate some movements, but are very expensive. I hope this adds
+> some insight to anyone thinking of going 2x3...? Good luck..
+
+**by Glenn C. Kroeger**
+
+> I would like to counter Bill's warning with another viewpoint. I don't
+> doubt Bill's observation that his Mamiya 7 images show better
+> sharpness than his SymmarXL. But it is not because MF lenses are
+> inherently sharper than LF lenses AT THE APERTURES USED IN LANDSCAPE
+> photography. MF lenses are designed to reach diffration limits at
+> fairly wide apertures, like f/5.6 to f/8 since they are often used at
+> these apertures (few weddings are shot at f/22). The tradeoff is
+> coverage and edge performance. LF lenses are designed to reach
+> diffration limits at apertures generally from f/16 to f/22, some of
+> the newer Apo wide angle and "digital" lenses from Rodenstock and
+> Schneider reach diffraction limits at f/11. Thus, if you are shooting
+> at f/22 all of these lenses will have the same resolving power in the
+> "center" which, for the LF lenses, will cover your entire frame of
+> roll-film. The Mamiya is exceptional because it is a rangefinder
+> design. Thus, like LF lenses, its wide angle and normal lenses don't
+> have to be retro-focus designs to clear a swinging mirror. Comparing
+> wide-angle LF lenses to wide-angle MF lenses for reflex cameras at the
+> same aperture shows no advantage, and in some cases a noticible
+> disadvantage to the MF lenses at apertures smaller than f/11. There is
+> a reason Hasselblad makes the SWC! The problem with using roll-film on
+> a view camera is that diffraction also limits resolution as you stop
+> down. Thus, while f/22 is great on 4x5, you want to avoid it if
+> possible when using shorter lenses and smaller formats. For roll-film,
+> anything smaller than f/16 will cause your LF lenses to produce less
+> than their optimal performance. Luckily, assuming you use lenses about
+> 2/3 as long on roll-film (ie a 75mm instead of a 110mm in 4x5) you
+> gain about one f-stop of depth of field (assuming constant ration
+> between radius of circle-of-confusion and film diagonal). So you can
+> and should use f/16 or wider. This takes practice if you are used to
+> using f/22 to f/32 in larger formats. The Mamiya, at f/8 or f/11 will
+> be sharper because of less diffraction effect, and the fact that its
+> lenses are already diffraction limited (at least in the center) by
+> those apertures. Another factor is film flattness. The Mamiya has an
+> excellent film path. Many roll-film backs have real flatness problems.
+> It really pays to use good (Toyo, Horseman or Sinar if your loaded)
+> roll-film backs. With the standard Horseman back, you should waste the
+> next frame if the film has been sitting in the back very long since
+> the last exposure as it tends to acquire a curl on the rollers. You
+> also need to carefully and OPTICALLY calibrate the alignment between
+> your groundglass (gg) and the film plane. You do this optically using
+> the technique described by Robert Zeichner in View Camera a few years
+> back. This is the only way to properly take fresnel screens into
+> account. Accuracy of focus is more critical in the smaller film size,
+> and again the Mamiya has an advantage here with its rangefinder.
+> Finally, you need to buy the best LF lenses made. No warm fuzzy
+> blasts-from-the-past allowed. The newest apo designs pay off in
+> roll-film work. And, by the way, it is also not a general truth that
+> larger coverage equals poorer central performance. In lens design,
+> central performance is usually not a trade-off for corner performance,
+> but rather a pre-requisite for corner performance. MTF curves for the
+> f/4.5 series wide-angles from Schneider and Rodenstock all achieve
+> diffraction limits in the field center by f/16, and in some cases by
+> f/11. In summary, don't be scared of roll-film with LF cameras and
+> lenses. Scanned on a Tango and printed on a LightJet5000, color
+> roll-film images are virtually indistinguishable from 4x5 images at
+> print sizes less than 20x24. For B&W zone work, stick to sheets! If
+> you do use roll-film on a view camera, follow these steps: 1. Buy the
+> best, latest-design, apo lenses you can get. 2. Get high quality
+> roll-film backs. 3. Optically calibrate your groundglass to your
+> roll-film backs (if they aren't the same, get new ones!) 4. Change
+> your shooting technique if you are coming from 4x5. Avoid apertures
+> smaller than f/16 if you can and remember you get about one extra stop
+> of depth-of-field. 5. Enjoy more portability, not loading sheetfilm
+> holders, not paying for QuickLoad, not cleaning sheetfilm holders, not
+> trying to find good used Grafmatic backs, not cleaning Grafmatic
+> backs, Velvia Provia IIIF, faster shutter speeds with Velvia on windy
+> days, less camera cross-section on windy days, f4.5 wide angles that
+> don't break your back, the 55mm Apo-Grandagon lens, and bracketing
+> like crazy on that once in a lifetime sunset.
+
+#### [View or add comments](http://www.greenspun.com/com/qtluong/photography/lf/roundup2x3.html)

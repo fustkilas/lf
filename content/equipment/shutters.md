@@ -1,0 +1,495 @@
+Shutters in lenses for large format photography
+
+Shutters
+--------
+
+**Compiled by [Q.-Tuan Luong](http://www.ai.sri.com/~luong/) for [the
+Large Format Page](.)**
+
+-   [General information](#general)
+-   [Older shutters](#older)
+-   [Older aperture systems](#apertures)
+-   [Packard shutters](#packard)
+-   [Modern shutters](#modern): Copals, Compurs, Prontors
+
+------------------------------------------------------------------------
+
+[]{#general}
+
+### General information
+
+LF lenses come two ways, ready mounted in a shuter and in barrels with a
+diaphragm but no shutter. The barrel mounted ones are intended to be
+used with an external, usually rear mounted shutter. This can be
+anything from a lens cap (or derby hat in the wet plate days) to the
+quite complicated Sinar shutter. The most commonly used rear shutter is
+the one made by Packard, a simple air operated shutter with single speed
+(aroung 1/20 sec.) and time. Some of these come with a synch contact.
+These work nicely for strobe on the studio. When a lens comes already in
+a shutter you get whatever the manufacturer offered at the time the
+thing was built. Samaller lense typically are in German made Compur
+shutters, probably the most widely used high quality shutter ever made.
+Larger lenses will come in Compound or Ilex shutters. Newer lenses come
+in Copal shutters, which are essentially a Japanese version of the
+Compur with, perhaps, some improvements. It is really not a matter or
+choice except that the shutter should be in good condition. Its possible
+to remount old lenses in new shutters but its expensive (the shutters
+are expensive) and isn't worth doing unless the lens is something
+exceptional. **Richard Knoppow**
+
+If you want to learn a lot about shutters (but NOT ENOUGH to fix one),
+try to find a copy of L.P.Clerc's "Photography Theory And Practice",
+Focal Press, 1973 edition. Chapter XVII is all about Shutters (pages
+236-271 of that edition). **Jean-David Beyer**
+
+Linhof invented the shutter in the last century. He split with Deckel
+and started to make cameras only. Deckel sold the shutter business to
+Zeiss many decades ago. They put it in the Prontor factory. Deckel went
+bankrupt in 1995. **BobS**
+
+------------------------------------------------------------------------
+
+[]{#older}
+
+### Some older shutters
+
+**by [Richard Knoppow](mailto:dickburk@ix.netcom.com)**
+
+A partial listing of shutters you will encounter on old lenses:
+
+-   Compur, a gear-train controlled, high quality shutter. One with a
+    small dial for steeing the dpeed wre made before 1931. Those with a
+    ring to set the speed were after 1931. Ther were many variations of
+    the shutter. These are the most common good quality shutter.
+-   Compound, An air-brake controlled shutter. Smaller ones are usually
+    quite old the largest size was made until the mid 1960's. Quite
+    reliable if clean.
+-   Ilex, made shuters for professional lenses. The Acme is a cocking
+    type shutter the Universal is a self-setting shutter. All used
+    gear-train regulation (Ilex held the original patent on this). They
+    are meant to run witout lubrication and get irregular when
+    lubracated. The \#5 Universal was the largest commonly available
+    shutter. Its top speed is about 1/30 sec whatever the marking says
+    and they need to be excercized a couple of times before making an
+    exposure to ensure uniformity. The construction is about the same as
+    a cheap alarm clock. Very common on LF lenses.
+-   Wollensak, Various names. Wollensak's original business was shutters
+    and they made good ones. Not seen as often as some other. IMHO they
+    are as good as Compur.
+-   Kodak Supermatic. Found on small and medium format Kodak lenses.
+    Very rugged reliable shutters. Slow speeds are accurate. Most will
+    have worn main springs so the fastest speeds will be about half of
+    marked. New springs should fix this but I don't know of a source.
+    These shutters can be cleaned without disassembley because the gear
+    train is exposed when the lens cells are removed.
+-   Copal shutters are found on modern LF lenses and sometimes old lense
+    that have been remounted. More accurate than the older shutters but
+    still spring motor driven.
+-   Packard shutters are a simple three-flap air driven devise. They are
+    life savers for barrel mounted lenses and are still made. New ones
+    cost about \$80 US for plain and \$125 for flash synch type. These
+    are not found on lenses but are used separately mounted on the back
+    of the lensboard. Unse ones were very common a few years ago but the
+    supply seems to have dried up.
+
+#### How they work
+
+There are pretty good illustrations in some of the older photography
+handbooks so a trip to the library is indicated. In general, most leaf
+shutters are completly mechanical. There have been some designs using
+electric motors to drive the blades but they have never caught on
+perhaps because of the need for batteries. The typical shutter is driven
+by a spring motor. Both helical springs (like a screen door spring) and
+spiral springs (like a clock spring) have been widely used. Some large
+shutters also use wire coiled springs. The shutter blades are
+approximately triangularly shaped. One apex can rotate on a fixed pin
+connected to the body of the shutter, an opposite apex is connected to a
+pin on a roatating blade ring. As the ring rotates it moves the blades
+together or apart. The blade ring is driven by the spring motor. With
+single action shutters which must be cocked, the cocking action winds or
+tensions the drive spring. When the shutter is released the spring
+operates a lever which drives the shutter blades open, it then continues
+to move a lever which bears on a retarding mechanism. In most shutters
+made since about 1920, this retarder consists of a clock-work
+escapement. This retarder keeps the shutter open for a specified time,
+while it operates and then releases the drive lever so that the main
+spring can drive the blades closed again. The idea is to open and close
+the blades as quickly as possible to maximize the efficiency of the
+shutter. The retarder is adjustable, that's what the speed setting dial
+does, usually by means of a cam of some sort which limits the distance
+the retarder is in control of the release lever. Some older types of
+shutters have an air brake instead of the clock-work. The Dekel Compound
+is one of these. Compounds were made for at least sixty years and are
+surprizingly accurate. Some shutters, particularly inexpensive ones, and
+some very large ones, (Ilex Universal) are "double action" or
+self-cocking. That means the shutter fires each time the release is
+pushed whith out having to cock it with a separate lever. This limits
+the strength of the motor somewhat so that double-action shutters do not
+have high top speeds. The release lever does the cocking at you operate
+it to make the exposure. Just as a double action revolver takes a much
+harder trigger pull than a single action, the double action shutter
+requires much more force to trip because you are also winding it. As
+shutters age the speeds often become slower. The slower speeds slow down
+because of gumming of the lubricant in the retarder clock-work, cleaning
+will bring them back. At higher speeds the trouble can also be dirt
+generally increasing the friction, or a drive spring which has become
+fatigued with use, or both. Often a proper cleaning wil bring the higher
+speeds back. Shutters must be very clean to operate properly. Also the
+correct lubricants must be used where lubrication is called for.
+Typically, very light watch oil is used on retarders and very light
+MolyKote grease used on sliding parts. Some shutters (Ilex and some
+others) are intended to run without lubricant and will have irregular
+speeds if lubricated. The highest speeds of most shutters are calibrated
+with the assumption that the iris will be wide open. That means the
+shutter is operating at minimum efficiency. Typically, the actual total
+open time, as measured by a speed meter will be 15% to 30% slower than
+the marked speed. The speed spec for late model Synchro Compur shutters
+require that the top speed of 1/500 measure something like 1/350 to be
+in spec. Slower speeds are usually more accurate. There have been many
+designs of leaf shutters over the years. Some older ones had double
+leafs which rotated completely around and then rotated back the other
+way the next time the shutter was tripped (Wollensak Optimo). Some
+shutters use the same leafs for both diaphragm and shutter, opening only
+to the specified f/stopm (Bausch & Lomb Volute). This arrangement is
+used in some modern automatic exposure control cameras. But most
+between-the-lens shutters operate as described above. The best
+illustrations I know of are all in rather old books. Check for C.B.
+Neblette's \_Handbook of Photography\_ or the even older Henney and
+Dudley book of the same name. Your library should be able to get them
+through inter library loan if they don't have them. A couple of pictures
+will make things much clearer.
+
+------------------------------------------------------------------------
+
+[]{#apertures}
+
+### Table of older aperture systems
+
+**Scanned by David Stein**
+
+![](Apertures.gif)
+
+------------------------------------------------------------------------
+
+[]{#packard}
+
+### Packard Shutters
+
+**by [Richard Knoppow](mailto:dickburk@ix.netcom.com)**
+
+Packard shutters go back to the 1890's. Most of them are air operated,
+the shutter being operated by an air cylinder on the back of the shutter
+and actuated by squeezing an air-bulb connected by a rubber hose. Three
+versions of Packards were made: The first has only "bulb" exposure, i.e.
+stays open until you close it, the second has a pin that selects between
+bulb and instantaneous ( about 1/20sec) exposure and the third kind has
+two bulbs, one for B and one for I. Some shutters of the last two kinds
+have contacts for syncronizing flash. I have occasionally seen other
+versions with a solenoid instead of the air cylindar for driving the
+shutter.
+
+The Packard can be mounted either in back or in front of the lens. The
+most typical use is to mount the shutter on the back of a lens board
+with the air hose brought out through either a hole or a fitting going
+through to the front. The shutter is held in place with four wood
+screws, very simple. Some Packard shutters offer either bulb or
+instantaneous exposure controlled by a pin which projects through the
+front of the lens board. when the pin is pulled out, the shutter is
+opened by squeezing the bulb and stays open until the blades are sucked
+back with the same bulb. In instantaneous the pin is pushed in. When the
+bulb is squeezed a toggle arrangement pushes against the pin and the
+shutter opens and closes with the same squeeze. Maximum shutter speed is
+dependant on how hard you squeeze but practically is about 1/20th sec,
+also dependant on the size of the shutter. Packard shutters can also be
+mounted on the front of a lens by means of a baffle and clamp. None are
+sold commercially but the design will be obvious when looking at a
+shutter. The electric shutters have more consistant speed but are more
+expensive.
+
+Packard shutters are limited in what they can do but are very much
+cheaper than a standard shutter and the cost of re-mounting a lens. For
+a great many purposes they work just fine. Its possible to mount a
+Packard on lens board which is fitted to take lenses in smaller boards
+or with an iris-diaphragm lens holder. That way any number of lenses can
+be used on same shutter. Packard shutters can be made in very large
+sizes and are often the only practical way to have a shutter for some
+lenses (e.g. the 16" Kodak Portrait lens). The largest stock unit has a
+clearance of 7". Packard shutters are still made. They are avaiable
+from:
+
+    Professional Photographic Products Inc.
+    117 Vine Street P.O.Box 0169
+    Hammonton, NJ, 08037-0169
+    800.257.8541
+
+Packard is still in business. The number is 800 257 8541
+
+\[R. Miller: see also [Equinox
+Photographic](http://www.equinoxphotographic.com) They used to stock
+them, but as of 10/2005 seldom have them. \]
+
+They will send you a free catalogue which includes replacement parts for
+old shutters. Typical prices are along these lines No.6 (T&I)shutter 3"
+opening, \$102 without synch,\$137 with synch. Used packards are getting
+hard to find. I used to buy them for \$10 or \$20 for non-synch ones.
+Its pretty easy to makeshift a synch using a microswitch mounted on the
+back of the lens board and actuated by the air cylinder.
+
+**By [Dion Johnson](mailto:dionj@netcom.com)**
+
+Packard shutters are self cocking. Generally, they have two operation
+modes - B and I. The I "instantaneous" setting causes the shutter to
+both open and close with one squeeze of the bulb. The speed varies on
+how hard you squeeze the bulb, how flexible is your rubber tubing, and
+how big is the shutter. It's difficult to get enough consistency to feel
+confident of exposing your color transparency film with one of these.
+The B vs I operation is usually accomplished by inserting a approx .060"
+pin into the mechanism, which causes the final part of the travel of the
+piston to close the shutter. In original configuration, this little pin
+mounts in a small bushing and has stops when it slides in and out of the
+hole. Typically, the air hose, and this pin extend out to the front of
+the lensboard. They come in many sizes from about 3x3" up to 6x6", maybe
+more. They are very easy to clean and refurbish, and tend to give long
+service. They respond well to graphite and silicone. Usually, the
+Packard shutter has black felt on its front surface, and mounts to the
+back of your camera's front standard with 4 screws, just smaller than
+the bellows frame. Some Packard shutters have flash sync... it's very
+easy to add this with a momentary microswitch if you are handy. Just
+mount the microswitch inside the Packard metal housing so it is tripped
+when the shutter is wide open. It's feasible to mount a Packard shutter
+in front of your lens... you need a slip-on flat plate to hold the
+shutter, something like an overgrown Cokin filter adapter. Of course, if
+you are going to mount something in front, why not go ahead and get a
+more modern, real shutter and stick it on there.
+
+
+    Sizes are given as follows for models 5 (time only) and 6 (time
+    and instantaneous):
+    opening diameter               overall dimensions
+    1.5"                           3.25x3.25"
+    1.75"                          3.5x3.5"
+    2"                             4x4
+    2.25                           4.5x4.5
+    2.5                            4.75x4.75
+    2.75                           5x5
+    3                              5.75x5.75
+    3.25                           6x6
+    3.5                            6.5x6.5
+
+------------------------------------------------------------------------
+
+[]{#modern}
+
+### Modern shutters: Copals, Compurs and Prontors
+
+**by Bob Salomon**
+
+As to the difference between a Copal and a Compur shutter: Compur has
+1/3rd step click stops on the aperture, Copal has none. Compur has a
+stop at the end of the aperture scale, Copal does not. Compur can add an
+aperture setting device to allow setting the aperture from behind the
+camera. Compur does not. The Compur may have a faster top speed
+depending on the shutter size. As to pricing the Compur is more than 2x
+the price of the Copal so, in some sizes, it may double the price of a
+lens. Also available for current lenses are the Rollei Linear Motor
+shutter for view camera lenses, the Horseman ISS shutter, the Noblex
+shutter and the Sinar shutter. The most common ones are the Copal,
+Compur and the Prontor Professional.
+
+Copal 0 = 1 sec. to 1/500, no aperture click stops, no remote aperture
+control\
+Copal 1 = 1 sec. to 1/400, no aperture click stops, no remote aperture
+control\
+Copal 3 = 1 sec. to 1/125, no aperture click stops, no remote aperture
+control
+
+Compur 0 = 1 sec. to 1/500, 1/2 stop aperture click stops, no remote
+aperture control\
+Compur 1 = 1 sec. to 1/500, 1/3 stop aperture click stops, remote
+aperture control available\
+Compur 3 = 1 sec. to 1/250, 1/3 stop aperture click stops, remote
+aperture control\
+(Remote control units for the aperture allow swtting the aperture from
+behind the lens).
+
+Prontor Professional 01S = 1 sec. to 1/250, disengageable 1/3 stop
+aperture click stops, remote aperture control, remote shutter control\
+Prontor Professional 1S = 1 sec. to 1/250, disengageable 1/3 stop
+aperture click stops, remote aperture control, remote shutter control\
+Prontor Professional 3S = 1 sec. to 1/125, disengageable 1/3 stop
+aperture click stops, remote aperture control, remote shutter control\
+(On the Prontor professional, with its accessory remotes, aperture and
+shutter speed can be set from behind the camera, the shutter can be
+opened to taking aperture to check DOF, open aperture for focusing and
+closed down to taking aperture with shutter closed for firing the
+shutter. The cable release can be attached directly to the remote
+control unit.)
+
+Today the thread size for the lens cells of all 0, 01, 1, 3 shutters
+from Copal, Compur, Prontor, Noble, Horseman, Rollei and Seiko are
+identical as are the thread sizes to attach them to the lens boards. Old
+shutters from various manufacturers varied the sizes but today they are
+standardized as are the lens cell thread sizes.
+
+**by [Jean-Christophe Barnoud](mailto:barnoud@worldnet.net)**
+
+    dimensions in mm                     Copal 0            Copal 1      Copal 3
+    1/board mounting thread               M32.5x0.5        M39x0.75       M61.0x0.75
+    2/flange ring diameter                 34.6                 41.6      64.0
+    3/board hole diameter                  34.8                 41.8      64.2
+    4/front lens cell thread               M29.5x0.5        M40.0x0.75   M56.0x0.75
+    5/rear lens cell thread                M29.5x0.5        M36.0x0.75   M56.0x0.75
+    6/front to rear cells flange          20.0 +-0.025     20.0+-0.025   28.6+-0.025
+      distance      
+    (M32.5x0.5 means : diameter 32.5mm, length of one thread 0.5mm = 2 threads per
+    mm = roughly 50 tpi, angle 60 degrees)
+
+This refers specifically to Copals. Post WWII Compurs are the same
+except for tolerances concerning the front to rear lens cell flanges
+distance (anyhow measured shutters show that practical manufacturing
+tolerances are much smaller than specs). Prontor shutters are also the
+same except that there is a "01" size which is an hybrid of "0" lens
+cells and "1" flange mount. Finally I left over all exotic sizes as
+"00", "2", "4" and "5" as those came (as prewar "0", "1" and "3"
+shutters) in a variety of thickness, diameters and threads.
+
+Well, I have not conducted tests on those Prontor shutters so I could
+not tell you if they are more precise than the Copals. They seem quite
+well made though. What is sure however is that they offer some unusual
+features like :
+
+-   a/ being self cocking (a plus or a minus depending of the kind of
+    work you do as this imposes a quite long movement to first cock the
+    shutter and only after release it).
+-   b/ having a second cable release like socket which commands opening
+    of the shutter to full aperture (automatic preset diaphragm) and
+    opening the shutter blades. You may see it as indulging lazyness
+    (going from back to front of the camera) but it may also increase
+    consistency of the aperture setting when working.
+
+You can also buy a nice system with a command box and two cable releases
+to automate all this but the price is a bit extreme ...
+
+Prontor-Werk Alfred Gauthier GmbH is a company of the Zeiss Group. They
+make shutters, accessories and cable releases for photographic or
+industrial use under the brand Prontor as well as shutters and
+accessories under the brand Compur. The current address in Germany is:
+
+
+    Prontor Werk Alfred Gauthier GmbH
+          Gauthierstr. 56
+          75323 Bad Wildbad
+          Tel.: Int + 49-7081 7811
+          fax. (49) 7-081-781467
+
+    On 27 September 1996 they sent a catalog:
+
+    This brochure lists 7 models of Compur shutters as currently available :
+    Compur 0 (ref 1 800 504) 1s to 1/500 + B, 1/2 f stop clicks, no remote
+    control of aperture
+    Compur 1 (ref 1 145 098) 1s to 1!500 + B, 1/3 f stop clicks, optional
+    remote control of aperture
+    Compur 3 (ref 1 146 203) 1s to 1/200 +B , 1/3 f stop clicks, optional
+    remote control of aperture
+    Compur electronic m0 (ref 1 018 009) 32s to 1/125 + T
+    Compur electronic m1 (ref 1 141 009) 32s to 1/125 + T
+    Compur electronic m3 (ref 1 142 002) 32s to 1/60 + T
+    Compur electronic m5 (ref 1 143 004) 32s to 1/30 + T
+
+    There are also 5 models of Prontor shutters (excluding behind the lens
+    shutters) :
+    Prontor press 0 (ref 1 012 006) 1s to 1/125 + B+T
+    Prontor press 1 (ref 1 112 008) 1s to 1/125 + B+T
+    Prontor professional 01s (ref 1 190 434) 1s to 1/250 + B (beware size 0 for
+    lens cells, size 1 for flange)
+    Prontor professional 1s (ref 1 190 345) 1s to 1/250 + B
+    Prontor professional 3 (ref 1 190 205) 1s to 1/125 +B
+
+    Interestingly, I also have the same (same reference, same date) with the mention :
+    Exclusive USA Representative GEISS-AMERICA, INC.
+
+**Comments on the Prontor by Tuan**
+
+*Update: The Prontor Professional was discountinued in 2001.*
+
+With a self-cocking shutter, when you are making multiple exposures, you
+might be able to avoid touching the camera (that's assuming you use same
+f-stop and speed), resulting in a better chance to get a perfect
+registration. This is often done in architectural photography for
+instance, in order to mix lights. Another advantage of having a
+self-cocking shutter is when you have these odd exposures of 2 or 3
+seconds, where it is somewhat difficult to time with good repeatability.
+you can just do several times 1 second.
+
+The use of the remote control is optional. Otherwise, the Prontor needs
+two ordinary cable releases. Those cable releases need to be equiped
+with the ability to lock them at a position, otherwise critical
+functions are difficult to perform. One is used like on any other
+shutter. The other is used to switch between the different shutter
+modes: open full aperture, open real aperture, closed. This is similar
+to the switch on the Copal, except that the Copal provides only
+open/closed.
+
+I used to have a Prontor on my 110. I liked the ability to time
+precisely and repetitively 2-3 second exposures, as well as the
+possibility to switch instantly between having the lens opened at full
+aperture, opened and stopped down, and closed ready for shooting.
+
+However, I think those advantages are outweighted by the drawbacks:
+
+-   Because the lens is stopped down "automatically" instead of manually
+    for a copal, if for some reason the aperture blades are stuck, you
+    won't necessarily notice it until it is too late, ruining many
+    exposures (I lost more than 70 sheets of film total).
+-   There is no T setting. To stop down and maintain the lens open to
+    check dof, since you need to have the secondary release depressed
+    mid-way to do so. So you have to rely on a proper (with locking
+    positions) second cable release for critical functions. This second
+    cable release gets in the way when trying to pack compactly.
+-   The shutter is more vibration prone, because you need to press the
+    cable release with some force.
+-   Having a mix of copals and prontors could be somewhat confusing.
+-   With my particular lens, the front scales are particularly difficult
+    to read, while the scale on top of the lens is too high.
+
+In conclusion, I found that while the Prontor was very nice to operate,
+it was not simple and reliable enough for use in the field. As my
+Prontor became rusted, I eventually got my 110 remounted in a Copal.
+
+The timing test of a Copal \#1 by [Jean-David
+Beyer](mailto:jdbeyer@exit109.com) shows that mechanical shutters are
+very accurate:
+
+
+    Indicated       Correct         1       2       3       4       5      6       7       Average
+    1               1               0.92522 0.92269 0.92419 0.92401 0.92558 0.92678 0.92518 0.924807
+       1/2             1/2          0.50192 0.50174 0.49964 0.50206 0.50244 0.50041 0.50054 0.501250
+       1/4             1/4          0.25826 0.25545 0.25450 0.25204 0.25384 0.25420 0.25276 0.254436
+       1/8             1/8          0.12839 0.12814 0.12966 0.12763 0.12745 0.12718 0.12765 0.128014
+       1/15            1/16         0.06786 0.06863 0.06758 0.06796 0.06811 0.06868 0.06873 0.068221
+       1/30            1/32         0.03382 0.03383 0.03401 0.03485 0.03404 0.03500 0.03338 0.034133
+       1/60            1/64         0.01520 0.01455 0.01468 0.01483 0.01478 0.01484 0.01476 0.014806
+       1/125           1/128        0.00754 0.00763 0.00746 0.00739 0.00761 0.00747 0.00762 0.007531
+       1/250           1/256        0.00369 0.00381 0.00379 0.00387 0.00385 0.00381 0.00384 0.003809
+       1/400           1/409        0.00269 0.00276 0.00274 0.00266 0.00274 0.00276 0.00271 0.002723
+                     
+
+    1,2,3,4,5,6,7 are the measurements (in the order measured at each speed).
+    This should allow you to compare their average speeds and get an idea
+    of the variations.
+
+### More info
+
+See some [data on shutters at the Schneider
+site](http://www.schneideroptics.com/photography/accessories/shutters/)
+
+[Descriptions and photos of Prontor shutters at SK Grimes'
+site](http://www.skgrimes.com/prontor/index.htm).
+
+[Descriptions and photos of Compound shutters at SK Grimes'
+site](http://www.skgrimes.com/compound/index.htm).
+
+[View or add
+comments](http://www.greenspun.com/com/qtluong/photography/lf/shutters.html)
+
+

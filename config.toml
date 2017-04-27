@@ -3,5 +3,4 @@ languageCode = "en-us"
 title = "Large Format Photography"
 
 [permalinks]
-
-  article = "/:year/:month/:title/"
+  article = "/:title/"

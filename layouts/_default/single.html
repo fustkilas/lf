@@ -5,10 +5,13 @@
     </head>
     <body>
         <h1>{{ .Title }}</h1>
-        <h3>by {{ .Params.author }}</h3>
-        <p>{{ .Params.email }}</p>
+        <h3>by <a href="{{.Params.email}}">{{ .Params.author }}</a></h3>
         <p><a href="{{ .Params.link }}">{{ .Params.link }}</a></p>
-        <p>{{ .Date.Format "January 2006"}}</p>
+
+        {{ if .Params.date }}
+        <p>{{ .Params.date}}</p>
+        {{ end }}
+
         {{ .Content }}
     </body>
 </html>

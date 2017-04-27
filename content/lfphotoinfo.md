@@ -1,0 +1,246 @@
+Why move to largeformatphotography.info (lfphoto.info) ?
+
+Why move to largeformatphotography.info (lfphoto.info) ?
+--------------------------------------------------------
+
+**by [Q.-Tuan Luong](http://www.terragalleria.com/) for
+[largeformatphotography.info](.), Sept 2003.**
+
+*Summary*: In June 2002, the LF forum was moved to photo.net. As the
+person who created and helped made this forum a success, I have given my
+[personal perspective on that move](lf-photonet.html). In this document,
+I will not dwelve on the past, but instead explain why I think that for
+the best long-term chances of success, the LF Forum should continue on
+largeformatphotography.info (lfphoto.info). It is my opinion that there
+is no technical advantage in having the forum at photo.net, as it would
+work better on largeformatphotography.info. On the other hand, many
+regular contributors have expressed concerns about intellectual
+property, commercialization, and the long term future of photo.net. A
+number of them have withheld or radically reduced their participation on
+the LF Forum as it was moved to photo.net. Based on the information that
+I have, I can confirm those concerns. We have now a very real
+possibility to operate a non-commercial LF site. I strongly suggest that
+for the benefit of this community as a whole, we all continue our
+discussions on largeformatphotography.info instead of photo.net.
+
+### lfphoto.info works as well as, or better than photo.net
+
+For most people, what really matters is to have a site that works well
+for posting and reading messages. It is my belief that the Forum on
+largeformatphotography.info will be a technical improvement on
+photo.net, because of better functionality, long term stability,
+performance, ease of search, data integrity, and support.
+
+-   **Functionality**: lfphoto.info runs software especially designed to
+    closely replicate the greenspun.com/photo.net interface you are all
+    familiar with, and adds several improvements. These improvements
+    include a user-management system that protects email addresses, yet
+    do not require registration, user history, display of the whole
+    thread while replying, and several important improvements on the
+    admin side. They allow the lfphoto.info forum software to match or
+    exceed photo.net's forums functionalities.
+-   **Long term stability**: lfphoto.info runs from a server donated by
+    a person with an important position in the internet industry, who is
+    committed to helping non-profits, and has a long record of
+    contributions to Usenet (in the non-commercial days of the internet
+    whose values lfphoto.info is trying to preserve). Because it uses
+    the very popular Php/mysql technologies the LF Forum could be moved
+    easily to another server if needed, including QT Luong's, which has
+    plenty of bandwidth to spare. Beyond the programming (now finished
+    !) and moderation, lfphoto.info does not require a single dollar to
+    operate. As a matter of fact, I have never asked for financial
+    contributions, and have turned down quite a few ones. All this makes
+    lfphoto.info the healthiest long term location for the forum.
+-   **Performance**: The photo.net server is often overloaded, with more
+    than 1 million unique visitors per month and lots of image activity,
+    which is now the main focus of the site. There have been repeated
+    complaints about various photo.net posting problems which didn't
+    seem to occur in greenspun.com. People also found greenspun.com to
+    have better performance (when not down). lfphoto.info will have two
+    orders of magnitude less users and serve mostly text files, all from
+    a competent server with a fast and stable internet connection.
+-   **Ease of search**: On photo.net, you cannot search the archives
+    just for LF contents, and you cannot search the valuable static
+    contents oflfphoto.info (which is not part of photo.net). On
+    lfphoto.info, you will be able to search all the LF contents
+    exclusively (static page and Forum). Using Google to do so will be
+    effective since everything relevant is just under our domain name.
+    More generally, lfphoto.info will be a community of LF participants
+    supporting a multiplicity of LF resources, the forum, the technical
+    reviews, the lens related information, etc. Having the forum at
+    lfphoto.info would offer the best possibility of improving all the
+    LF related resources there. For instance, new forum software could
+    made it possible to automatically link to a location where
+    participants could offer suggestions for new articles, or contribute
+    to existing articles, facilitate the creation of an extensive list
+    of FAQs, etc...
+-   **Data integrity**: The database of older postings of the LF Forum
+    at photo.net has problems (such as misattributed postings, missing
+    postings, and inconsistent links) and we don't know how extensive
+    the problems are. The database of older postings on lfphoto.info
+    just replicates that of greenspun.com. This database was directly
+    copied from lusenet with the permission and help of Philip
+    Greenspun, the author and owner of lusenet. It comprises more than
+    60000 postings.
+-   **Support**: Our volunteers concentrate their efforts exclusively on
+    lfphoto.info. On the other hand, photo.net has not been responsive
+    to solving obvious problems in the LF database, like having large
+    positive counts in empty categories, and not being able to delete
+    categories that are no longer needed. Recently, the email alerts
+    quit working, and photo.net has not been able to fix the problems
+    yet. The photo.net management seems to have identified other areas
+    as more critical to their revenue generation. As of this writting,
+    we have both Tom and Bjorn onboard to fix technical problems and
+    make improvements. It is expected that as the Forum picks up
+    momentum again, some others might join.
+
+### What can be said for photo.net ?
+
+Staying at photo.net is the conservative solution. I am aware that there
+is a bit of uncertainty involved in moving to lfphoto.info. However,
+based on my knowledge of the situation, I think it is well worth taking
+the risk. The forum is best off at an independent site with people who
+care about large format photography.
+
+-   **photo.net is here to stay.** I have already outlined why I think
+    that the lfphoto.info has a good long term stability. In its current
+    set-up, it could go on forever with just a minimal amount of
+    volunteer admin efforts, requiring absolutely no funds. While
+    photo.net is most likely to be around for a long time, it is not
+    certain at all who the owners will be, and how they will manage it.
+    Changes can happen overnight. Currently photo.net is barely
+    profitable, so either commercialization has to be increased, or it
+    will have to be sold.
+-   **We are already at photo.net.** We have not elected to be at
+    photo.net. In fact, the greenspun.com server is still running one
+    year after the move to photo.net, and if not for the photo.net
+    forcing the move on us, we would just be quietly moving to our new
+    server without any fuss. It is possible that another move would
+    divide the community further, but to begin with, the community has
+    already been divided with many staying away from photo.net. Moving
+    to the new server is the normal course of action we would have
+    taken, and is an opportunity to reunite the community. The more we
+    stay at photo.net, the more divisive the move will be. It is better
+    to do it as soon as possible, now.
+-   **We would have the opportunity to educate more new participants at
+    photo.net.** The same effect would be easily obtained with a direct
+    link from photo.net. The only thing missing would be the "unified
+    forum view" that I think is clunky anyways. The LF site was very
+    visible through search engines (Google \#1 for "large format
+    photography") and will now be even more visible, while the LF Forum
+    is buried in that mass-market entity photo.net. Any motivated
+    photo.net members who seek LF education from the community's experts
+    will find lfphoto.info, even if photo.net declines putting up a link
+    to us. While it is true that the original charter of photo.net, as
+    envisioned by Philip, was education, things have been changing there
+    (and much to Philip's displeasure).
+
+The following reasons hold no weight in my opinion:
+
+-   **Many LF users are photo.net members**. Surfing to lfphoto.info is
+    as easy as surfing to the LF Forum on photo.net. Most of the people
+    who prefer lfphoto.info (including myself and the developers) are
+    photo.net members. We recognize that photo.net has value, otherwise
+    we wouldn't be members there, but lfphoto.info is better. Lacking a
+    willing wealthy benefactor, it is likely impossible to operate a
+    community as large as photo.net in a non-commercial way, but it is
+    possible to do so for the LF community, so why not do it ?
+-   **Brian did a lot of work in migrating the forum**. This must be
+    acknowledged, however if Brian had asked before proceeding to do the
+    migration, all this would not have happened. The LF developers
+    (Bjorn Nilsson, Tom Westbrook, and a few others) have spent much
+    more effort than Brian, since not only they migrated the forum, but
+    also they wrote from scratch the new Forum software. Unlike Brian
+    who is a photo.net employee, they have absolutely no financial
+    interest in the outcome, as lfphoto.info is purely non-commercial,
+    and did all their work in the spirit of sharing.
+
+### Issues with photo.net
+
+A number of key contributors to the old LF Forum are conspicuous in
+their absence on photo.net. It is highly likely that those contributors
+will participate again on an independent Forum. Some of them have
+explicitly announced their reticence to posting on photo.net because
+they prefer not to give a perpetual license to some as-yet unidentified
+commercial enterprise in the future.
+
+**Commercial v. non-profit.** There *is* a difference in ethos, which
+translates into several consequences.
+
+-   When someone contributes to the LF page, (s)he can take pride in
+    donating knowledge back to the large format community, in the spirit
+    of the generosity of the early days of the internet. When someone
+    contributes to photo.net, (s)he also increases the value of a
+    commercial venture. Some readers (including key contributors) are
+    uncomfortable with their contributions to their own community being
+    used to forward a commercial venture.
+-   The lfphoto.info is run as democratically as possible, placing
+    priority on the interests of its members. As an illustration, I
+    proposed a vote on the location of the LF Forum, a proposition that
+    was eventually refused by Brian Mottershead, although he was
+    initially favorable to it. Only the few photo.net shareholders will
+    have a say if the company is sold. More concretely, recently
+    participants appear to be favorable to worshop announcements on the
+    Forum, but this was not permitted by photo.net.
+-   The charter of largeformatphotography.info is to be the site of the
+    LF community. A commercial site places its efforts where most of the
+    money is. As a result, the needs of minority sub-communities become
+    secondary, as shown by the lack of attention to several technical
+    issues on the forums.
+-   A site relying heavily on commercial sponsors inevitably loses its
+    objectivity.
+-   The photo.net site is blocked by network administrators at several
+    large organizations.
+-   As a grassroots group, it is easier for us to seek contributions for
+    the site from outside sources, as well as to get people to volunteer
+    their time to help.
+
+**Copyright**. On photo.net, you "grant photo.net a perpetual
+non-exclusive world-wide royalty-free license to modify, publish and
+reproduce that material for the purpose of operating, displaying,
+distributing and promoting photo.net". It has been pointed to that as it
+reads in a court of law this is virtually an unlimited license. Another
+owner could exploit their licence to whatever degree desired. The terms
+of use on lfphoto.info make it clear that lfphoto.net doesn't claim any
+right beyond a revokable licence to publish on its site, and will remove
+on request any of the contents you posted.
+
+**Community focus**. While the initial focus of photo.net was education,
+it is now trying to be a mass site which favors quantity over quality
+(as noticed by many photo.net old-timers, some of them moderators) in
+order to be financially profitable. The main efforts are directed
+towards areas such as the image gallery and its rating system.
+photo.net's title page nowadays reads "Photo.net home page and recent
+digital cameras reviews". The LF community has little in common with the
+typical photo.net reader nowadays, and is best served on its own site,
+one ran by people who care about Large Format Photography.
+
+**The future**. Photo.net as a corporation is a commodity subject to
+acquisition. While the current officers and management seem to be of
+good will, there is no such guarantee down the line. Why should we take
+the chance, knowing that if we wait it would be much more difficult to
+move than now ?
+
+**We have given photo.net a chance**. One year ago, despite dubious way
+photo.net had taken over the site, I initially asked the community to
+move there to see how it would work. The net result is that the forum
+has not improved, with many thinking it has in fact degraded. A distinct
+increase in amateurish behavior can be seen, but the main reason why the
+discussions have dropped in quality is that we have lost many valuable
+contributors on the way.
+
+### Conclusion
+
+We now have a very real possibility to have a non-commercial LF site
+with a Forum software which matches or betters the photo.net LF forum.
+The independent, non-commercial nature should satisfy those who have
+issues with the commercial nature of photo.net. The renewed community
+focus on Large Format Photography, integration with other LF resources,
+and hopefully reuniting of the former community on greenspun.com, should
+satisfy everyone.
+
+------------------------------------------------------------------------
+
+[](mailto:luong@ai.sri.com)
+
+luong@ai.sri.com

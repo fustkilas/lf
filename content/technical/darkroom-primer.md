@@ -1,0 +1,690 @@
+B&W darkroom for large format photography: a primer
+---------------------------------------------------
+
+**By [N. Dhananjay](mailto:ndhanu@umich.edu) for [the Large Format
+Page](.)**
+
+**
+
+This document covers the basics to get started in
+[processing](#negative) and [printing](#print) B&W film. It is just a
+primer and not meant to be comprehensive. For more details and
+information, refer to the [web and book references](#ref) provided at
+the end of the document.
+
+[]{#negative}
+
+------------------------------------------------------------------------
+
+Film Processing
+---------------
+
+#### Why do your own processing?
+
+1/ you learn a lot more about photographic controls since it forces you
+to work a lot more closely. Knowing processing and printing, in a sense,
+almost forces you to see through the camera and forces visualization
+
+2/ understanding what you can control in processing, and how, opens new
+avenues and gives you greater creative freedom in how you take the
+picture
+
+half the point of using individual sheets of film is the individual
+processing you can give each of them
+
+4/ no more being at the mercy of automatic processing machines (you may
+make mistakes but they are your mistakes and you learn from them)
+
+5/ cheaper in the long run
+
+6/ reduces the number of variables (if a picture gets screwed up, you'r
+e not wondering whether it was the processor or you, but you can get
+down to figuring out where the problem is)
+
+#### Processing Basics
+
+What exactly happens when you trip the shutter? A certain amount of
+light strikes the film. Photographic film consists of silver compounds
+(halides). The light strikes these particles and excites them and forms
+a latent image. Processing is about developing the image and making it
+permanent.
+
+Processing essentially consists of three steps - developing, stopping
+development and fixing. You need some way by which you can unload the
+film, expose it to the developing solution, which can develop the latent
+image i.e., take the excited particles and get them to deposit metallic
+silver. Once that is done to the requisite degree, you need to arrest
+development or the developing solution can continue working on the
+remaining halides. Once you have stopped development, you need to fix
+the image, which is done by dissolving and washing away the undeveloped
+silver halides from the emulsion.
+
+### What equipment do you need?
+
+1/ some containers to unload the film and run it through the chemistry
+
+2/ developer
+
+3/ stop bath
+
+4/ fixer
+
+5/ wash aid
+
+6/ wetting agent
+
+7/ containers to hold the chemicals
+
+8/ thermometer
+
+9/ other stuff depending on which method you choose to use (trays, tanks
+etc)
+
+****
+
+Processing containers: Your options (the ones I'm aware of) basically
+are 1/ tray processing 2/ daylight safe tanks 3/ large tank 4/ tubes
+(like the BTZS ones - see www.darkroom-innovations.com) 5/ other stuff
+like the JOBO processors.
+
+Tray processing is done by manually shuffling the film through trays
+containing the chemicals. Not terribly expensive, all you need are
+chemistry and trays. However everything needs to be done in the dark and
+some people seem to hate this option (also painful if you're sensitive
+to chemicals). Daylight safe tanks (JOBO makes these and they come with
+a contraption to facilitate the loading of the sheet film) are
+convenient because once you've loaded your film into the daylight safe
+tank in the dark, the rest of the work can be done in a lit room. Large
+tanks involve loading the sheets into holders, which are dunked into the
+chemistry. With tubes, you curl the emulsion and place it in a tube,
+which is then rolled in the chemistry. I've only used 1 and 2 and will
+explain below in more details the operating procedure for these methods.
+
+Each method appears to have its adherents and I guess it should be
+possible to get a decent negative using any of these methods.
+
+****
+
+Developer: There are a variety of developers available. Typically, they
+are available either as powders, which you will have to dissolve or as
+concentrated liquids. Follow the manufacturer's instructions. It is
+probably wise to choose one developer and stick with it till you
+understand it and are able to control it (as opposed to changing
+developers in the search for the \`perfect' developer, which only serves
+to increase sources of variability).
+
+The big question is whether you will use the developer one time or use
+the replenishment system. In one time development, you develop a batch
+of film and toss the developer down the drain. The advantage is
+consistency but is quite wasteful of developer. The alternative is
+replenishment wherein, for subsequent batches of film, you either add
+small amounts of fresh developer or increase development time a little
+to compensate for the slightly old, used developer. Replenished
+developers are said to \`ripen ' with age as they collect silver salts
+etc which are supposed to favorably alter the quality of subsequent
+negatives, which has led to some people championing the cause of
+replenishment.
+
+****
+
+Stop bath: This is typically acetic acid, which neutralizes the alkaline
+solution required for development and thus halts development.
+
+****
+
+Fixer: Fixers dissolve the undeveloped silver salts, which can then be
+removed by washing. If this step were not carried out, the unactivated
+silver salts would become activated when exposed to light and cause
+fogging of the image.
+
+****
+
+Washing aid: Once the film is developed and fixed, you need to remove
+all the fixer/hypo from the film surface. This is achieved by washing
+the negative. A washing aid can reduce washing time.
+
+****
+
+Wetting agent: At the end, you need to hang the wet negatives up to dry.
+Sometimes, the water does not run off the negative but will form drops
+on the surface of the negative and will dry, leaving marks on the
+negative. A wetting agent changes the surface tension of the water,
+allowing it to run off the surface of the film easily.
+
+****
+
+Agitation: If the film is placed in the developer and is left absolutely
+still, one gets underdeveloped negatives. This is because as the
+developer on the surface of the film acts on the film, it gets \`tired'.
+So you need to move the developer around to ensure that fresh developer
+can reach the film surface. Agitation with a tank is achieved by
+inverting the tank and turning it right side up. Agitation when
+processing in trays is achieved by lifting up the film at the bottom of
+a stack of sheets and moving it to the top of the stack and in this way,
+shuffling through the entire stack repeatedly at a steady rate till the
+development cycle is completed. Take care not to let the sharp edge of a
+negative scratch the emulsion of another negative. It is important to
+develop a good balance between agitation and rest since no agitation
+causes underdevelopment and over agitation causes over development.
+
+****
+
+Time and temperature: So how do you tell when development is complete if
+you have to do everything in the dark? The film needs to be in the
+developer at a particular temperature (usually 68F) for a certain amount
+of time. You can vary these i.e., use a higher temperature for a shorter
+time etc. The zone system can be used for expansion and contraction (if
+the subject brightness range was too extreme or if your visualization
+calls for a longer range) by increasing or reducing the developing time.
+The manufacturer's recommendations form excellent starting points. If
+you consistently get underdeveloped or overdeveloped negatives, you can
+then adjust development time accordingly.
+
+### Using Trays
+
+1/ Prepare the chemical solutions and place them in a logical order in
+front of you (since you will be working completely in the dark). I
+prepare four trays - water, developer, stop bath and fixer. The chemical
+solutions should be at the correct temperature (this can be done by
+placing the containers in a tray of water at the right temperature for a
+little while before pouring them into the trays).
+
+2/ Turn off the room lights. Unload your film holders. Make sure your
+hands are absolutely dry. If you get the film sheets wet, they will
+stick to each other and be impossible to pry apart without damage to at
+least one of the emulsions.
+
+3/ Arrange the sheets with all of them having the notches in the same
+position. Now rotate one of these 180 degrees so that the notch is in
+the opposite corner. This will serve as a marker in the dark.
+
+4/ Arrange the sheets in a fan shape (the way you would arrange the
+cards you had been dealt in a card game) in your left hand.
+
+5/ Take one of the sheets with your right hand and place it in the tray
+containing the water. Now, even though your right hand is wet, since
+your left hand is holding the sheets in a fan shape, your right hand can
+pick them up one at a time to avoid getting two of them stuck together.
+Transfer all the sheets to the water presoak.
+
+7/ Transfer the sheets one by one to the tray containing the developer.
+Start agitation (by shuffling through them i.e., lifting the sheet at
+the bottom to the top) and keep track of the marker sheet. Develop a
+consistent rhythm. For about 6 sheets or so, the shuffling of one card
+every 3-5 secs is said to produce a good agitation/rest interval. Take
+care in setting the film down on the top of the stack and ensure the
+sharp edge of the film does not scratch the emulsion of the film below.
+At the end of the development cycle, finish shuffling till you move the
+marker sheet to the top.
+
+8/ Transfer the sheets one at a time to the stop bath. Go through two
+cycles of agitation.
+
+9/ Transfer the sheets one at a time to the fixer. Agitate. You can turn
+on the room lights about halfway through the fixing cycle.
+
+10/ Transfer the sheets to a tray with water in it (I refill the initial
+presoak tray). Run through one cycle of agitation.
+
+11/ Refill the tray with water and agitate for 2 minutes.
+
+12/ Transfer the sheets, one at a time to another tray with the washing
+aid in it (I pour out the stop bath and rinse the tray and fill it with
+washing aid). Agitate the film for 2 minutes.
+
+13/ Transfer the sheets to a tray filled with a gentle stream of running
+water. The emulsion is still extremely delicate and easily scratched.
+Wash the negatives for about 5 minutes.
+
+14/ In a tray, mix water with a wetting agent and place the sheets in it
+for about a minute.
+
+15/ Hang the sheets to dry in a dust free area.
+
+16/ File the negatives carefully.
+
+****
+
+### Using a daylight-safe tank
+
+1/ Mix your chemicals. Set the containers in a tray filled with water at
+the required temperature and let the chemical solutions all reach the
+required temperature.
+
+2/ Using either a completely dark room or in a changing bag, load sheets
+of film into the tank.
+
+3/ Fill the tank with water. Tap it sharply to dislodge any air bubbles
+on the surface of the film. Agitate for 30 secs. Let it soak for an
+additional 30 secs. The purpose of the water presoak is to wet the film
+completely so that it can \`soak in' the developer.
+
+4/ Pour out the water. Pour in the developer. Agitate continuously for
+the first 30 secs and then for 5 secs out of every 30 secs for the rest
+of the development cycle.
+
+5/ Pour out the developer and pour in the stop bath. Agitate
+continuously for 30 secs.
+
+6/ Pour out the stop bath. Pour in the fixer. Agitate continuously for
+the first 30 secs and then for 5 secs out of 30 secs for the rest of the
+fixing cycle
+
+7/ Pour out the fixer. Fill the tank with water and agitate continuously
+for 30 secs. Pour out the water and repeat. You can take a look at the
+film halfway through the fixing cycle but it is more convenient to just
+finish the whole thing.
+
+8/ Fill the tank with a washing aid (which is used to clear the
+fixer/hypo and reduce washing time).
+
+9/ Pour out the washing aid. The film now has to be washed. You can push
+a thin hose into the tank and let water flow through the tank. I find it
+more convenient to take the film out of the tank and take a look at it -
+ah! The thrill of the unknown! I then place a tray under running water
+(at the appropriate temperature) and place the film in this tray. Adjust
+the flow of water to have at least a dozen changes of water in 5
+minutes. Shuffle through the sheets very carefully a few times. The
+emulsion is extremely sensitive and can be easily scratched - I don't
+care to remember how many perfectly good negatives I used to ruin when I
+started doing my own processing.
+
+10/ Add a few drops of wetting agent (which does something to the
+surface tension of the water and lets it run off the film easily when it
+is drying - else you can get marks from water droplets drying on the
+film) to water. Let the film sit in this for a minute.
+
+11/ Hang the film to dry in a dust free place.
+
+12/ File them carefully after they are dry.
+
+ 
+
+------------------------------------------------------------------------
+
+[]{#print}
+
+Printing the negative
+---------------------
+
+In essence, printing is like photography in reverse. You take the
+negative and project it out onto a sheet of paper (and so you get a
+negative of the negative i.e., the positive) and develop the paper.
+
+The prospect of setting up a darkroom can be intimidating at first and
+look hideously expensive. You can get started on a budget, though.
+Convert a bathroom into a darkroom (running water is available, many
+bathrooms don't have windows that need to be blacked out, the trays can
+be set in sequence in the bathtub). Used equipment provides considerable
+savings. Film processing equipment purchased new would probably cost in
+the region of about \$100-150. Tray processing lowers the cost
+considerably (to somewhere in the region of \$50-75). Printing equipment
+is typically more expensive, especially enlargers and lenses but good
+deals may be had on used equipment. Some used enlargers may be a little
+ratty but you can easily fix these yourself. Mine had a light leak near
+the negative carrier that fogged my papers (loss of crisp highlights). I
+fixed it by first draping my darkcloth around it and then by placing a
+rubber gasket around the area where the cold light head sat on the
+negative carrier.
+
+### What do you need?
+
+1/ **An enlarger** (I know this looks expensive at the beginning but
+used enlargers can be had for quite reasonable amounts - typical brands
+include Omega, Saunders, Durst, Beseler - I'm sure I've left some out).
+The options are condenser or diffusion illumination (condensers are said
+to provide added contrast at the expense of emphasizing dust and grain)
+
+2/ **An enlarging lens:** these are corrected for flat field and close
+working - you'll need a lens with a focal length approximately the
+diagonal of the negative (else you'll have light fall off at the edges),
+typical lenses for 4X5 are 135mm or 150mm. Get the best one you can
+afford. The optics are as important as your camera optics in getting a
+good print
+
+3/ **A timer**: Not absolutely essential (I've managed to get by using
+long exposures) but distinctly useful since many of them regulate the
+voltage (preventing variations in intensity of light) and it also turns
+the enlarger on and off.
+
+4/ **A negative carrier** (two options - one, where the negative is
+sandwiched between two glass plates which hold it absolutely flat but
+provide four more surfaces for dust (and Newton rings), or glass-less
+carriers which won't stop negative sag i.e., hold the negative
+absolutely flat resulting in attendant focus hassles
+
+5/ **Paper**: A huge variety is available (Kodak, Ilford, Oriental
+Seagull, Forte and many others). The typical choices are fiber base or
+resin coated. Fiber is the traditional stuff but takes a long time to
+wash since the chemistry permeates the fiber. The first resin coated
+papers were not as long lasting as fiber based papers but the new
+generations of papers are quite an advancement and are said to last as
+long as fiber based stuff (time will tell!). Paper is available in
+various contrast grades to facilitate printing negatives with weak or
+strong contrast. Grade 2 is considered normal contrast, with anything
+below (0 and 1) being low contrast, and anything above (3 and 4) being
+high contrast (see below for understanding contrast grades).
+
+Multigrade papers are a convenient option. These consist of strong
+contrast as well as weak contrast emulsions in the same paper, but these
+are sensitive to different wavelengths. By choosing the appropriate
+filter, it is possible to achieve various contrast grades with the same
+paper (which spares you the trouble of stocking papers of various
+contrast grades).
+
+6/ **An easel** to hold the paper: four bordered easels let you set a
+border on all four margins. Border-less easels let you print right to
+the edge of the paper. Single size easels let you slip papers of a
+particular size into them easily for fast operation.
+
+7/ **Chemistry** (paper developer, stop bath, fixer)
+
+8/ **Bamboo tongs** to move the paper from one bath to another
+
+9/ A darkroom
+
+10/ A grain focusser
+
+11/ A **safelight** - printing papers are quite slow and orthochromatic,
+i.e., insensitive to red light at a distance. Keep the safelight at
+least four feet distant from the paper to reduce risks of fogging.
+
+### Basic Techniques
+
+#### The Basic Idea
+
+Typically, images are cued to the tonalities of white and black and so
+these form convenient starting points in determining exposure and
+contrast grade. So, the first problem facing you is to find an exposure,
+which will give you a \`correct' white or black. Find an area that you
+want reproduced as a white and find the exposure at which you just lose
+the white i.e., it goes light grey and that is the right exposure.
+Alternatively, find an area you want reproduced as a black and find the
+exposure at which it just hits black, i.e., beyond this, it remains
+black and you risk your barely textured darks also becoming black and
+without texture.
+
+Now print the whole image at this exposure and study the image. Let's
+consider an example where you key the print to the blacks. You may find
+that in obtaining the correct black, you are losing the other end of the
+scale i.e., the whites are not being reproduced as you visualize it.
+There are two ways this can happen. You get a correct black but your
+whites are either grey or the areas which should be light grey are still
+white. This means the contrast on the negative is not matched to the
+contrast of the paper for the expression of the picture you have in
+mind. You will then need to switch to a higher or lower contrast paper
+to put in all the values as you visualize them.
+
+Alternatively, you decide on an exposure to obtain the lightest textured
+area and you can control the darks through appropriate contrast grade
+selection. In other words, if in obtaining the right amount of texture
+in your highlights, your shadows (the parts which you want dark but with
+some texture) go black and lose all definition, switch to a lower
+contrast grade paper (or filter if you are using multigrade papers). If
+the shadows are muddy and not deep enough, switch to a higher contrast
+grade.
+
+Note that these are simplifications based on a general way of working.
+Let the image dictate what you need. An image might well need to be
+keyed to the midtones. The essence is to key the printing to some area,
+find the exposure which gives you that area the way you want it and try
+to control the rest of the image with paper contrast changes so that all
+areas are reproduced the way you want them.
+
+#### Understanding Contrast Grades
+
+To begin with, contrast is very much a function of medium. Even as
+facile a mechanism as the human eye has its limits. Extremely bright
+(blinding light in the eye) will be perceived without detail even if
+there are actually variations of tone. Similarly, extremely dark
+situations will be rendered uniformly dark, regardless of whether there
+actually is variation in tone or not (as demonstrated by someone with
+poor night vision in a dimly lit room). There are further interactions
+resulting from the physiology and psychology of seeing which give rise
+to effects such as higher contrast images appearing to be sharper and so
+on.
+
+For our purposes, we are interested in the contrast grades of film and
+paper and in trying to match the contrast of the negative to that of the
+paper such that a straight print yields us an image of normal contrast.
+Refer to the two accompanying figures as you read this. Fig 1 is the
+characteristic curve (log exposure against density) for a hard contrast
+paper. Fig 2 refers to a soft contrast paper. As can be seen, the slope
+of figure 1 is considerably steeper than that of figure 2. So a unit
+change in exposure will make a much bigger change in density for the
+figure 1 paper than for the figure 2 paper. This means that the paper
+corresponding to figure 2 will demonstrate a much more even range of
+greys than the paper corresponding to figure 1.
+
+![](lfdoc_contrast1.gif)![](lfdoc_contrast2.gif)
+
+Let's consider an example. Let us say that the dense areas of a negative
+allows 1 photon of light to pass through every second while the thin
+areas (the shadows) allow 10 photons of light to pass through every
+second. Also let's say that we have two mid-tone areas which allow 3 and
+7 photons through respectively. Now, you start exposing the image on a
+very hard contrast paper like that corresponding to Fig. 1. Let us say,
+for e.g., that with this paper, it takes 50 photons of light to achieve
+maximum black and about 30 photons to achieve the first hint of texture
+i.e., above paper white. So in about 5 seconds, the shadow areas of the
+negative would have allowed 50 photons to strike the paper and achieve
+maximum black. However the highlight portions would have only allowed 5
+photons of light through. The mid-tones would have allowed 15 and 35
+photons to strike the paper. So in effect, the highlights and some of
+the midtones are not really being separated in tonality from one another
+(since both 5 and 15 units are below the level needed to get the first
+hint of texture). So, in spite of the fact that you would like these two
+values separated tonally, they will not be. Now, if the same negative
+was used on a paper no. 2, which needs 300 photons of light for maximum
+black and 30 photons for the first hit of texture. The shadow areas
+would put 300 photons on the paper in about 30 seconds. In the same 30
+seconds, the highlight areas would put 30 photons of light on the paper
+and the midtones would put 90 and 210 photons of light on the paper.
+This would translate into a full range of tones from white through a
+range of greys to black from this negative.
+
+So a very contrasty negative would need the use a soft contrast paper
+for this purpose and vice versa. In other words, if the negative has a
+very smooth gradation of tones but your visualization calls for
+something starker, you would print it on a higher contrast paper.
+
+#### Exposure
+
+So how do you determine the correct exposure ? Test strips are a useful
+way of doing this. Place a strip of paper on the easel. Raise the
+enlarger head to the height you will be using it at (depending on final
+print size). I find it convenient to work with exposures in the 20 to 40
+sec range since that provides time for any manipulations that are
+required. Give the paper 5 secs of exposure and then cover 20% of it
+with a card and give it another 5 secs and so on. When you develop this
+strip, you will have successive bands of increasing exposure. Pick the
+one that best corresponds to your visualization. If the best strip
+appears to be towards one end of the exposure sequence (5 secs or 30
+secs), run another test strip. By ensuring that you have lighter and
+darker renditions to each side, you confirm that the exposure you choose
+really is the best one. Otherwise there is no way of knowing whether a
+shorter (or longer) exposure may not have been better. Remember that
+intensity of light falls off with distance. So the higher the enlarger
+head is (for a larger print), the longer the exposure needed.
+
+#### Developing the print
+
+This proceeds in exactly the same fashion as film, except that since
+paper is orthochromatic, you can work under the safelights and watch the
+image come up in the developing solution (this part is truly magical -
+you'll never lose your fascination for watching this happen).
+
+Place the paper in the developer. Generally, it needs 1 to 2 minutes
+(see manufacturer instructions). Do not pull the paper before its time
+just because it looks too dark or light. Run another print if that is
+the case. Once the time is over, use the tongs and drop the paper into
+the stop bath (do not let the tongs touch the stop since it will then
+contaminate the developer when you put it back there). Let the print sit
+in the stop bath for about 15-30 secs depending on the paper (fiber
+based papers need longer). Then transfer it with a separate pair of
+tongs to the fixer. Time in the fixer depends on whether you are using a
+rapid fixer or not. Once the print is fixed, it needs to be washed.
+Print washing (especially of fiber based papers can take a long time -
+print washers can help do this efficiently as can a washing aid).
+
+### Steps to a fine print
+
+#### Examining the Negative
+
+Look at the negative. A well exposed negative viewed by transmitted
+light will always reveal more detail than a print viewed by reflected
+light but you are looking for a creative expression of the picture in
+your head. Study the negative as the source of information from which
+you choose what you want to express. Begin by studying the low
+densities, then the midtones and finally the high densities (the
+highlights of the image).
+
+#### The Contact Print
+
+With large format (4X5 and larger), these are large enough to provide a
+good deal of information useful for later printing. A contact printing
+frame is useful for this although it is perfectly feasible to get by
+with a plate of glass. Almost anything can be used for illumination (I
+started making contact prints by using a desk lamp with a low wattage
+bulb in it), but an enlarger is undeniably easier to work with.
+
+Raise the enlarger head till it throws a circle, which covers the area
+well. Place a blank negative in the carrier (unexposed, developed film).
+Make a test strip as explained above. Once you've developed and dried
+this test print, study it to see how much exposure just gives you a
+maximum black. This will be the time you will use for making your proof
+sheet. The logic is that this exposure keys towards the black i.e., it
+is the exposure that will *just* give you maximum black from a blank
+area (shadow) in your actual negative.
+
+Now you have the information to make a contact print. Place the printing
+paper, emulsion side up (the side that looks shiny under the safelight),
+and place the negative to be contact printed, emulsion side down on the
+paper. Place the glass down on this to hold the paper and negative well
+in contact with one another. Turn on the enlarger and expose for the
+required amount of time. Develop the print. Study the print for any
+manipulations that seem necessary, contrast grade etc.
+
+****
+
+Making an enlargement
+
+Determining exposure: Decide on the size of the print that you want to
+make. Raise the enlarger to the necessary height. Place the negative in
+the negative carrier after dusting it and making sure it is clean
+(remember any dust on the negative or lens means long hours spent
+retouching the print). Place an old print face down on the easel to
+focus on (this will ensure that the plane of focus is exactly where you
+will eventually place the printing paper). Use a grain magnifier to
+critically focus on the grain of the negative. Replace the old print you
+used for focussing with unexposed paper. Make test strips as explained
+earlier to determine the optimum exposure time.
+
+The Work Print: Once you have determined the optimum exposure time, make
+a straight print with no manipulations. Develop this print and study it
+critically. See if the paper contrast grade is appropriate to your
+visualization or whether you need to change it. If needed, make another
+work print on the appropriate paper grade.
+
+Dodging and burning: You now have a negative that is matched to the
+appropriate paper grade to render your visualization. However, your work
+print may still not match your visualization. You may have wanted some
+parts of the image lighter or darker. This is where dodging and burning
+come in. These allow you to control the tones of local areas. The basic
+idea is very simple - you add exposure to those areas that you want
+darker (burning in) and hide light from the areas you want lighter
+(dodging). An assortment of cards/matboards works well. Your hands work
+even better. For dodging areas in the middle of the print, you can make
+dodging tools by fixing various shaped cardboard pieces to wire. For
+burning in the middle, you can use you hands or use holes cut in card.
+By bending cards, you can get curved shapes. By tilting a circular dodge
+tool, you can get ovals. Keep the stuff moving all the time to prevent
+hard edges and unreal effects. Another useful control is afforded by how
+close to the lens (i.e., far away from the paper) you hold the tool.
+Closer to the lens gives you a more diffuse penumbra, which yields a
+more gradual effect.
+
+Print touching: If you have dust on the negative, you will end up with
+whitish specks on the print. If your negative had a tiny pinhole, this
+will give you a black dot on the print. Spotting can be used for dealing
+with white spots from dust. The pinholes are more difficult to deal
+with. I've heard that it is possible to carefully spot the negative,
+which then gives you a white spot on the print, which can now be spotted
+as usual. Or you could try using a sharp knife to gently reduce the
+amount of silver deposit in this area, something I do not trust my
+unsteady hands to do. The other option is to use a bleaching agent like
+Farmer's reducer (this contains ferricyanide, so handle with care). Dab
+a bud or brush in this and apply it to the area you want to bleach. Keep
+fixer handy since you will need to apply fixer to stop the action of the
+bleach. This can also be used to bleach a print that has gone dark
+overall by filling a tray with bleach and putting the print in it.
+Farmer's reducer can also be used to tone down an overly dense negative
+as intensification can be used for thin negatives.
+
+Once you have the print you want, you can tone it. Toning affords
+protection to the print and can change the color bias of the print.
+
+### Other Related Issues
+
+1/ Checking for safelight fog: Place a few coins on a piece of paper and
+turn on your safelights for about 3-5 minutes. Develop this paper and
+see if the area surrounding the coins, are light grey compared to the
+area below the coins (which should be absolutely unexposed and white).
+
+2/ The dry down effect: Never check prints when they are wet. This is
+because wet prints glisten with a slightly higher contrast but as they
+dry, they lose that sparkling white intensity.
+
+3/ Paper colors: Papers come in a variety of colors from pale cream to
+cold tones. These colors can be further changed through toning -
+something to keep in mind when deciding a paper for a particular
+picture.
+
+------------------------------------------------------------------------
+
+[]{#ref}
+
+### More information
+
+****
+
+Some useful web addresses (not comprehensive)
+
+1/ [www.kodak.com](http://www.kodak.com/) for information on films,
+papers, chemistry, processing times.
+
+2/ [www.ilford.com](http://www.ilford.com/) for information on films,
+papers, chemistry, processing times.
+
+3/ [www.digitaltruth.com](http://www.digitaltruth.com/) for a huge data
+sheet on processing times, crossing films and developers.
+
+4/ [www.saundersphoto.com](http://www.saundersphoto.com/)
+
+5/ [www.jobo-usa.com](http://www.jobo-usa.com/)
+
+6/ [www.darkroom-innovations.com](http://www.darkroom-innovations.com/)
+
+7/ [www.omega.satter.com](http://www.omega.satter.com/)
+
+****
+
+Books
+
+1/ The Kodak Darkroom Dataguide (make sure you have this one)
+
+2/ \`The Negative' by Ansel Adams
+
+3/ \`The Print' by Ansel Adams
+
+4/ "Basic Techniques of Photography' by John Schaefer from the Ansel
+Adams Publishing Co.
+
+5/ \`Black and White Printing' by George Schaub
+
+6/ I'm not sure about the title and the authors but I think it is \` Th
+e Darkroom Handbook' and at least one of the authors was Langford.
+
+7/ The Elements of Black and White Printing by Carson Graves
+
+#### [View or add comments](http://www.greenspun.com/com/qtluong/photography/lf/darkroom-primer.html)

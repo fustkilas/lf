@@ -1,0 +1,9 @@
+<section>
+    <h2>Workshops</h2>
+    <ul>
+        {{- range where .Data.Pages "Section" "workshops" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{- end }}
+    </ul>
+
+</section>

@@ -1,0 +1,325 @@
+A personal perspective on the move of the LF Forum to photo.net
+
+A personal perspective on the move of the LF Forum to photo.net
+---------------------------------------------------------------
+
+**by [Q.-Tuan Luong](http://www.terragalleria.com/) for the [Large
+Format Page](.), June 2002. Rev Sept 2003.**
+
+I created the LF Forum in 1997, using the "Lusenet" software and hosting
+provided by Philip Greenspun at greenspun.com. My understanding is that
+at that time the main benefit for him in providing those services for
+free was to showcase his expertise in DB-backed web sites. It turns out
+the interface was designed with excellent taste, and was effective and
+simple. It was probably no little factor in helping the forum grow. The
+forum would not have existed without Philip Greenspun, not only for the
+services, but also the inspiration. It was very close in spirit to the
+original photo.net, although it could be argued that the original
+photo.net was instrumental in helping Philip's tremendous web services
+career, while I didn't expect much in return.
+
+My vision was to provide a place where large format enthusiasts could
+come and exchange freely ideas and help. No commercial activity would
+ever take place there. No financial contribution would be required,
+because I considered that the most valuable contribution would be the
+time spent by members to contribute contents. No copyrights claims to
+contents would be made, and the legalities were just to be similar to
+those on Usenet, after which Lusenet was aptly named, based on good
+common sense and courtesy.
+
+### The LF community and photo.net
+
+This worked quite well, so well that in July 2000, I was approached by
+photo.net staffers who expressed interest in integrating the LF contents
+(page and forum) with photo.net. When they asked me what I would want
+for working for them, I emailed back my requirements for being a
+part-time employee. Remember that this was in the waning days of the
+dot-com boom when it could be assumed they were a well-funded dotcom
+startup. Subsequently, we had a conference call in which I learned there
+was no compensation available. Various ways to "monetize" the community
+were discussed, which didn't hold appeal to me. I thought that giving
+the value of the contributions which had been made to the not-for-profit
+site, including the amount of work I had put in it myself, transferring
+it to a commercial venture (which photo.net had become at that time,
+having been incorporated) for nothing material deserved some reflexion.
+I initiated a poll on this page, archived in the links "old polls". The
+question was simply: "Should the LF Forum move to photo.net ?" The
+results were clear, even more than the final results indicated, if you
+had followed the vote. In the first week of voting, the ratio of "No" to
+"Yes" was around 4 to 1. It is reasonable to believe that those who
+voted first were the more regular contributors. In addition, in only one
+of the personal contacts (Ellis) that I had with other members, in
+person, by phone, or by email, the move was recommended, whereas many
+spoke strongly against it. This confirmed to me that while the silent
+majority maybe didn't really care where the LF Forum be hosted as long
+as it works OK, those who did care for the forum enough to express their
+opinion did not want to join photo.net.
+
+Far from me is the thought that photo.net is bad. In fact, I have been a
+member there since 1996. In 2001, I was one of the first dozen of
+members to write specifically a long feature article for the photo.net
+site (the photographer's guide to Vietnam) using their format, and I
+still contribute regularly to the Forums there. I went to great length
+to buy from the photo.net affiliates, even if that meant giving up on
+the convenience of my usual suppliers. When I had the impression that
+one of those transactions didn't register properly, I alerted photo.net
+so they could check. Although I am an active member of photo.net (or
+more accurately because) and have no axe to grind against their
+management, I could see clearly the differences between photo.net and
+the LF page hosted by Lusenet.
+
+The main difference is that the LF page is a not-for-profit online
+community, while photo.net is a for-profit company which operate on-line
+communities. As such it is difficult for photo.net to have the same
+idealistic goals as the LF page. It if often pointed out that photo.net
+is in fact not that different, being a non-profitable operation, but I
+don't buy this argument for two reasons. First, it was not the intention
+of photo.net not to turn out a profit, since otherwise I suppose it
+would have been founded as a non-profit. Second, the economy has taught
+us that when companies do not turn out a profit, bad things happen to
+them, like closing down or being sold to whoever, and this is always a
+risk that we must keep in mind.
+
+When someone contributes to the LF page, he can take pride in donating
+knowledge in the spirit of giving something back to the large format
+community, the very reason for which I created the site myself in the
+first place. You can note that the ratio of contributed articles over
+community members is maybe one order of magnitude more in the LF page
+than in photo.net. It was to encourage that spirit that I didn't want to
+even accept donations. When someone contributes to photo.net, he
+increases the value of a commercial venture. One of the early strategies
+of Philip Greenspun was to create "magnet content", somewhat
+controversial, but sketchy articles which would compel the readers to
+fill-in the gaps by adding comments. Clearly most people wouldn't let a
+magazine use their words or images for free, so many people would find
+that there is a limit to their contributions to photo.net.
+
+A second problem is that like all companies, photo.net needs to grow to
+have credibility and resources. As it grows, it attracts more members
+and traffic, and has to cover increasing expenses to satisfy sponsors as
+well as members. By contrast, the LF Page just serves ascii text to a
+select and relatively small (in 2002, about 1500 people posted a
+message, with a couple hundreds posting at least weekly) community and
+doesn't need much to support itself, since being a non-mainstream
+community, it will always remain of a manageable size. Our server would
+enjoy a light load, and it wouldn't be difficult to develop more custom
+community services.
+
+This resulted in somewhat different communities. The LF community was as
+cozy and supportive as it gets. We've seen members trying to set-up a
+network to buy and stock film locally so that one would avoid the hassle
+of going through airport security with film. We've seen a member being
+offered a free gear loan after he posted about his gear being stolen
+before a trip. Of course, we've also seen some flame wars, and as a
+moderator, I've had my share of angry emails, but none of this resulted
+in the incidents I have witnessed on photo.net such as retaliatory
+ratings, or members with excellent records of contributions threatening
+to leave, or worse, being banned and denied the right to have their
+contributions removed.
+
+### The end of the Lusenet area
+
+In December 2001, Philip Greenspun announced that he planned in the
+future to discontinue the greenspun.com services. The capabilities
+showcased by the system now were commonplace, and nobody was there to
+support the servers since he was pushed away from Ars Digita (the
+company he founded based on the greenspun.com software, now evolved into
+the more sophisticated ACS which is used on photo.net). He suggested
+that different Lusenet photo forums be moved to photo.net. As a friend
+of mine pointed out, transferring the forums to photo.net would have
+been by far the simplest option for me, the one which wouldn't require
+me to do anything.
+
+Instead, I asked the community members what they thought of the
+different options. This was not meant to be a vote, since one had been
+conducted a year and half ago, but rather a discussion meant to put a
+finger on key issues. This was not a discussion of a Lusenet-like system
+hosted by photo.net versus a Lusenet-like system hosted independently,
+since this was the essence of the 2000 discussion, whose result was
+clear enough. Rather, I wanted to know whether other alternatives were
+acceptable to the community. The main conclusion which emerged from the
+discussion was that most people preferred to stay with the current
+greenspun.com/ACS interface, a testimony to its excellence. I ruled out
+all the options which did not satisfy this requirement. The discussion
+also suggested that in the case of a move to photo.net, copyright issues
+and the individuality of the Forum had to be preserved.
+
+In light of those conclusions, I asked Philip Greenspun the following:
+
+    (a) copyright is independently held by authors and photo.net
+    (b) each page has a small area at the top or bottom for which 
+     I can decide the contents.
+    (c) no specific 35mm/MF advertising
+    (d) an option for readers of the LF forum to search only the 
+     messages of the LF Forum and not the whole photo.net
+
+The idea I had in mind was that while the LF contents would be visible
+to anyone in photo.net, the rest of photo.net would be visible only to
+the LF members who wanted it to be so. Philip agreed to all of those
+points (subsequently, the notice which said that photo.net own the
+copyright to all the postings was amended) but said that the staff of
+photo.net has so much on its plate that it would take maybe a year to
+implement some of them. I replied I thought it might not be the best to
+move to an overloaded server with overloaded staff which would have no
+time to devote to the sub-community issues, whereas our requirements
+were quite simple.
+
+I began to explore the feasibility of an independent Lusenet/ACS server.
+There were three problems. First, the system, even in its more portable
+incarnation, known as OpenACS, would need to run on its own server
+because of its requirements of fringe technologies usually not provided
+by web hosting companies. This increased the hosting fees by one order
+of magnitude, and would require raising funds from members. Although I
+would have preferred to avoid it, this was not a major obstacle. Second,
+one would have to install OpenACS itself on the system. Third, one would
+have to transfer the old archives which are too precious to loose. I had
+a look at the software. It appeared to me that the second task would
+require a couple of days to a good software developer, while the third
+one, while apparently the easiest, would require probably a week, due to
+a number of small differences between the two softwares. I am not even a
+good software developer myself, so the task appeared over my head. There
+were a number of offers (most turned out to be unsuitable after a close
+look) but instead of pursuing them in parallel, I chose to accept one
+which looked more promising because it would have an OpenACS server
+already set-up and running. However, this still did not solve the third
+problem (data transfer), and the person who made the offer clearly
+couldn't be expected to spend the time required to do it. In light of
+the correspondence I've just had with Brian, who eventually pulled it
+off, it seems that my assessment was correct. Anyways, around mid-March
+it was clear this was not going to work in the short term, and I left
+for a trip in April and the beginning of May. It looked like despite
+more frequent outages, the greenspun.com server could still go for a
+while, as Philip Greenspun had given no specific deadline. I accept the
+blame for not considering the situation with more urgency and failing to
+mobilize more effectively the resources of the LF community.
+
+### The move to photo.net
+
+On Monday June 3, trying to access the LF forum, I saw that it was
+turned off, with a message announcing the move to photo.net. I had been
+notified of that only in the evening of Sunday when I didn't check my
+email. Philip, before leaving for his trip, requested that the LF Forum
+and other photo forums on Lusenet be moved to photo.net. The motivation
+of Philip was to preserve the contents of the LF Forum, since he was
+going away for a sabbatical, and he was uncertain whether greenspun.com
+would still be up in the while. I was not contacted for approval, even
+though I had expressed reservations to Philip in the past. Since at that
+point there was no alternative, and since it wasn't clear whether
+Lusenet would be available in the short term, I resigned myself to the
+move.
+
+The fact is that I was not even that opposed to a LF Forum move to
+photo.net. There were plenty of opportunities to move to another system
+that I could have taken if it was more important for me to prevent the
+forum from being taken over by photo.net rather than seeing it served
+with a good infrastructure. I was envisioning a move to photo.net by
+this summer if no alternative was found.
+
+Then apparently the person who was then in charge of the transfer was
+not able to pull it off before his own vacation, and the Forum was
+restored for a few days. The aborted move was a wake-up call for a small
+group of web developers among the readers of the LF Forum, Bjorn
+Nilsson, Josh Wand, and Jennifer Waak. They came up with the idea of
+rewriting Lusenet in php/mysql, two popular technologies which would
+have made it much more portable and eliminate the hosting problem. This
+was good solution for our needs, which do not require the complexity of
+the enterprise-class ACS. At about the same time, I received an offer
+for a free account with possible root access on a decent server
+connected to a T1 line. This was from Brian Reid, an extremely
+knowledgeable person who has an history of being generous in helping on
+the net non-profit organizations and individuals.
+
+I had resigned myself to the move as the least worse solution for the LF
+Forum, but now that we had a promising solution, the situation became
+very different. I asked photo.net to delay the move so that we could
+finalize the software, evaluate all the possibilities, and get a
+consensus on what to do. From my point of view, there was no urgency.
+The greenspun.com server, while unreliable, had been somewhat working,
+and some insiders acknowledged that it could still be up for a while. In
+fact, a year later, it is still running. The data itself was not too
+much at risk. After being notified of the possibility of a greenspun.com
+shut-down, I had taken the precaution to download it. It is true that
+from December 2001 to May 2002 we had not made much progress in finding
+a new home, but now development efforts were underway, which would have
+made hosting a trivial issue (many \$30/month accounts would now be
+appropriate, since we wouldn't need to the OpenACS and its associated
+technologies) even if we didn't have our free server. In case of a final
+decision to go to an independent server, the move would complicate
+things further by confusing the readers, some of which would be lost
+during the transitions, confusing the search engines, as well as
+introducing new technical difficulties with database updating, and
+identification numbers.
+
+However, the photo.net staffers ignored my request. Apparently Brian
+Mottershead tried to email me but this email was lost somewhere before
+reaching my inbox. Brian (a staffer with long-term financial interests
+in photo.net) at that time appeared to sincerely believe that
+greenspun.com was to be shut down soon. More importantly, he wanted the
+material for photo.net.
+
+Even as the move proceeded, and despite the way it was done without my
+consent, or that the members of the lusenet LF community, I was still
+willing to cooperate with photo.net enough that I asked the community to
+go there at least temporarily. My main concern was to avoid a split
+which would loose members along the way. I also didn't want to make an
+unnecessary fuss since I appreciated other aspects of photo.net (I
+remain an active contributor to other forums to this day).
+
+### Getting ready
+
+However, the nature and tone of Brian's replies in the forum and in
+email has convinced me that I should have been more forceful in opposing
+the move. While I was troubled by the insistence of Brian to try to
+convince everybody forcefully that the forum should stay at photo.net,
+using on occasion ad-hominen arguments againt me, what was more of
+concern was the fact that Brian was not able to ensure me that photo.net
+was not trying to go towards an acquisition.
+
+Several key contributors to the LF forum objected to the takeover by
+photo.net, and as a result have withheld or radically reduced their
+participation on the LF Forum as it was moved to photo.net.
+
+After Brian had repetedly tried to cast doubt about the legitimacy of
+moving over the material previously served by Philip Greenspun to an
+independent server, a conversation with Philip Greenspun made it clear
+that Philip never considered that he had any licence about the posts,
+but rather that they belonged to the LF community. Although the
+greenspun.com server that is running Lusenet is still up more than a
+year after the move, Philip was worried about it back then. It was only
+out of concern for the future of the LF Forum that Philip asked for the
+transfer, and he understood very well my concerns about
+commercialization, having himself urged that photo.net be transformed
+into a not-for-profit entity. Philip made the data transfer easier by
+providing us with a direct database listing.
+
+Meanwhile, although the volunteer efforts had an encouraging start, the
+initial progress was slowed down by disagreements amongst the volunteers
+developpers on how to code. In the fall, Brian decided that the forum
+had taken root on photo.net, and reversed his initial offer to hold a
+vote concerning the location of the forum, which put a damp on the
+enthusiasm of the developers.
+
+Eventually Bjorn was left alone with the responsability to finish the
+software, but he was seriously injured in a car accident. Since he could
+not access the internet while recovering at the hospital, nobody could
+contact him, and efforts were stalled for many months. What allowed the
+software to be completed is that Tom Wesbrook volunteered to finish the
+development just at the time when Bjorn got back in touch with us, at
+the begining of the summer 2003. This made it possible for Bjorn to
+transfer graciously his code to Tom. Within the summer, Tom had finished
+the software, and transfered it to the largeformatphotography.info
+server.
+
+[Comments about the first version of this article on
+photo.net](http://www.photo.net/bboard/q-and-a-fetch-msg?msg_id=003Mi6)
+
+**[A more recent discussion between Brian and advocates of the
+independent LF Forum](discussion.html)** (originally on [Bjorn's
+prototype LF
+Forum](http://www.binoni.nu/lf/singleThread.php?messageId=007IB0&forumId=1&order=ASC)).
+
+------------------------------------------------------------------------
+
+[](mailto:luong@ai.sri.com)
+
+luong@ai.sri.com
