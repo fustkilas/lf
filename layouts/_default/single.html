@@ -1,19 +1,21 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>{{ .Title }}</title>
-    </head>
-    <body>
-        <h1>{{ .Title }}</h1>
-        <h3>by <a href="{{.Params.email}}">{{ .Params.author }}</a></h3>
-        <p><a href="{{ .Params.link }}">{{ .Params.link }}</a></p>
+{{ partial "header.html" . }}
 
-        {{ if .Params.date }}
-        <p>{{ .Params.date}}</p>
-        {{ end }}
+<h1>{{ .Title }}</h1>
 
-        {{ .Content }}
-    </body>
-</html>
+{{if .Params.author }}
+<h3><a href="{{.Params.email}}">{{ .Params.author }}</a></h3>
+{{ end }}
+
+{{if .Params.link}}
+<p><a href="{{ .Params.link }}">{{ .Params.link }}</a></p>
+{{ end }}
+
+{{ if .Params.date }}
+<p>{{ .Params.date}}</p>
+{{ end }}
+
+{{ .Content }}
+
+{{ partial "footer.html" . }}
 
 

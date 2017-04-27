@@ -11,10 +11,10 @@ Edited by [QT Luong](http://www.terragalleria.com/), written by [many contributo
 
 ## Quick Links
 
-[Questions & Answers Forum](/forum)  
+[Forum](/forum)  
 [Search](/search)  
-[Site Timeline](new.html)  
-
+[Timeline](new.html)  
+[Changelog](/changes)  
 
 
 ## How to get started in large format photography
