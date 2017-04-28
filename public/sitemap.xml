@@ -430,10 +430,6 @@
   </url>
   
   <url>
-    <loc>http://lflf.surge.sh/changes/</loc>
-  </url>
-  
-  <url>
     <loc>http://lflf.surge.sh/community/</loc>
     <priority>0</priority>
   </url>

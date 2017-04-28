@@ -1,16 +1,57 @@
 {{ partial "header.html" . }}
-
+{{ partial "menu.html" . }}
 {{ .Content }}
-{{ partial "start.html" . }}
-{{ partial "opinion.html" . }}
-{{ partial "technical.html" . }}
-{{ partial "travels.html" . }}
-{{ partial "equipment.html" . }}
-{{ partial "workshops.html" . }}
-{{ partial "books.html" . }}
-{{ partial "community.html" . }}
 
 
+<div class="grid" >
+
+
+    <div class="row row--lg">
+
+        <div class="cell">
+            {{ partial "start.html" . }}
+        </div>
+
+        <div class="cell">
+            {{ partial "opinion.html" . }}
+        </div>
+
+        <div class="cell">
+            {{ partial "technical.html" . }}
+        </div>
+
+    </div>
+
+
+<div class="row row--lg">
+
+    <div class="cell">
+        {{ partial "travels.html" . }}
+    </div>
+
+    <div class="cell">
+        {{ partial "equipment.html" . }}
+    </div>
+
+    <div class="cell">
+        {{ partial "workshops.html" . }}
+    </div>
+
+</div>
+
+<div class="row row--lg">
+
+    <div class="cell">
+        {{ partial "books.html" . }}
+    </div>
+
+    <div class="cell">
+        {{ partial "community.html" . }}
+    </div>
+
+</div>
+
+</div>
 {{ partial "footer.html" . }}
 
 

@@ -1,4 +1,56 @@
+* {
+  box-sizing: border-box;
+}
 html {
   font-family: sans-serif;
   font-size: 12px;
+}
+section {
+  margin: 0 0 2em 0;
+  padding: 1em 0;
+}
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  margin-bottom: 0.5em;
+}
+hr {
+  border: 0;
+  height: 1px;
+  background: #ddd;
+}
+.row {
+  display: flex;
+  flex-direction: column;
+}
+.cell {
+  flex: 1;
+  border: 1px solid #ddd;
+}
+@media all and (min-width: 480px) {
+  .row--sm {
+    flex-direction: row;
+  }
+}
+@media all and (min-width: 720px) {
+  .row--md {
+    flex-direction: row;
+  }
+}
+@media all and (min-width: 960px) {
+  .row--lg {
+    flex-direction: row;
+  }
+}
+.menu {
+  background: #eee;
+  padding: 1em 0;
+  margin: 0;
 }
